@@ -1,0 +1,19 @@
+{
+  "fetched_at_utc": "2026-06-04T20:28:08.865456+00:00",
+  "mode": "live",
+  "source": "U.S. EIA Open Data API v2",
+  "price_rows": 8643,
+  "production_rows": 1350,
+  "commodities": [
+    "Brent Crude",
+    "Henry Hub Natural Gas",
+    "WTI Crude"
+  ],
+  "regions": [
+    "PADD 1 \u2014 East Coast",
+    "PADD 2 \u2014 Midwest",
+    "PADD 3 \u2014 Gulf Coast",
+    "PADD 4 \u2014 Rocky Mountain",
+    "PADD 5 \u2014 West Coast"
+  ]
+}
