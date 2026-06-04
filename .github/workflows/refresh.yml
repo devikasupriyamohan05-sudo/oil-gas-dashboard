@@ -1,0 +1,27 @@
+name: Refresh EIA data
+on:
+  schedule:
+    - cron: "0 12 * * *"     # runs daily at 12:00 UTC
+  workflow_dispatch: {}        # also lets you run it manually
+permissions:
+  contents: write              # allows the robot to save updated data
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: |
+          python fetch_data.py
+          python build_db.py
+      - run: |
+          git config user.name "data-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/clean_prices.csv data/clean_production.csv data/fetch_meta.json
+          git commit -m "Automated data refresh" || echo "no changes"
+          git push
