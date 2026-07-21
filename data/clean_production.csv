@@ -570,7 +570,7 @@ date,region_code,region_name,lat,lon,production,unit
 2024-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1002.0,thousand barrels
 2024-06,R50,PADD 5 — West Coast,37.0,-120.0,714.0,thousand barrels
 2024-07,R10,PADD 1 — East Coast,39.0,-77.0,1588.0,thousand barrels
-2024-07,R20,PADD 2 — Midwest,41.5,-93.0,1780.0,thousand barrels
+2024-07,R20,PADD 2 — Midwest,41.5,-93.0,55185.0,thousand barrels
 2024-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,9672.0,thousand barrels
 2024-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,986.0,thousand barrels
 2024-07,R50,PADD 5 — West Coast,37.0,-120.0,723.0,thousand barrels
