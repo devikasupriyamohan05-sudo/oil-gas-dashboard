@@ -525,7 +525,7 @@ date,region_code,region_name,lat,lon,production,unit
 2023-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,969.0,thousand barrels
 2023-09,R50,PADD 5 — West Coast,37.0,-120.0,763.0,thousand barrels
 2023-10,R10,PADD 1 — East Coast,39.0,-77.0,2172.0,thousand barrels
-2023-10,R20,PADD 2 — Midwest,41.5,-93.0,58385.0,thousand barrels
+2023-10,R20,PADD 2 — Midwest,41.5,-93.0,1883.0,thousand barrels
 2023-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,9459.0,thousand barrels
 2023-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,982.0,thousand barrels
 2023-10,R50,PADD 5 — West Coast,37.0,-120.0,819.0,thousand barrels
@@ -535,7 +535,7 @@ date,region_code,region_name,lat,lon,production,unit
 2023-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1018.0,thousand barrels
 2023-11,R50,PADD 5 — West Coast,37.0,-120.0,771.0,thousand barrels
 2023-12,R10,PADD 1 — East Coast,39.0,-77.0,1873.0,thousand barrels
-2023-12,R20,PADD 2 — Midwest,41.5,-93.0,59003.0,thousand barrels
+2023-12,R20,PADD 2 — Midwest,41.5,-93.0,1903.0,thousand barrels
 2023-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,9536.0,thousand barrels
 2023-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1026.0,thousand barrels
 2023-12,R50,PADD 5 — West Coast,37.0,-120.0,771.0,thousand barrels
@@ -594,7 +594,7 @@ date,region_code,region_name,lat,lon,production,unit
 2024-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,9682.0,thousand barrels
 2024-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1078.0,thousand barrels
 2024-11,R50,PADD 5 — West Coast,37.0,-120.0,722.0,thousand barrels
-2024-12,R10,PADD 1 — East Coast,39.0,-77.0,46.0,thousand barrels
+2024-12,R10,PADD 1 — East Coast,39.0,-77.0,1418.0,thousand barrels
 2024-12,R20,PADD 2 — Midwest,41.5,-93.0,1837.0,thousand barrels
 2024-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,9791.0,thousand barrels
 2024-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1051.0,thousand barrels
