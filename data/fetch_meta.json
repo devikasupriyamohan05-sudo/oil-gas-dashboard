@@ -1,8 +1,8 @@
 {
-  "fetched_at_utc": "2026-07-29T13:53:25.077497+00:00",
+  "fetched_at_utc": "2026-07-30T13:43:11.243640+00:00",
   "mode": "live",
   "source": "U.S. EIA Open Data API v2",
-  "price_rows": 8744,
+  "price_rows": 8759,
   "production_rows": 1360,
   "commodities": [
     "Brent Crude",
