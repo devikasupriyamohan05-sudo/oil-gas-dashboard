@@ -1,9 +1,9 @@
 {
-  "fetched_at_utc": "2026-07-31T13:48:33.809369+00:00",
+  "fetched_at_utc": "2026-08-01T13:04:00.647811+00:00",
   "mode": "live",
   "source": "U.S. EIA Open Data API v2",
   "price_rows": 8759,
-  "production_rows": 1360,
+  "production_rows": 1370,
   "commodities": [
     "Brent Crude",
     "Henry Hub Natural Gas",
