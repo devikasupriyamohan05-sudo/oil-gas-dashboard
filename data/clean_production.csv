@@ -526,7 +526,7 @@ date,region_code,region_name,lat,lon,production,unit
 2023-09,R50,PADD 5 — West Coast,37.0,-120.0,763.0,thousand barrels
 2023-10,R10,PADD 1 — East Coast,39.0,-77.0,2187.0,thousand barrels
 2023-10,R20,PADD 2 — Midwest,41.5,-93.0,1887.0,thousand barrels
-2023-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,294043.0,thousand barrels
+2023-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,9485.0,thousand barrels
 2023-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,985.0,thousand barrels
 2023-10,R50,PADD 5 — West Coast,37.0,-120.0,820.0,thousand barrels
 2023-11,R10,PADD 1 — East Coast,39.0,-77.0,2041.0,thousand barrels
