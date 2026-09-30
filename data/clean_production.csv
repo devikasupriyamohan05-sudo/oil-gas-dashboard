@@ -630,7 +630,7 @@ date,region_code,region_name,lat,lon,production,unit
 2025-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1044.0,thousand barrels
 2025-06,R50,PADD 5 — West Coast,37.0,-120.0,728.0,thousand barrels
 2025-07,R10,PADD 1 — East Coast,39.0,-77.0,1686.0,thousand barrels
-2025-07,R20,PADD 2 — Midwest,41.5,-93.0,57281.0,thousand barrels
+2025-07,R20,PADD 2 — Midwest,41.5,-93.0,1848.0,thousand barrels
 2025-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,10122.0,thousand barrels
 2025-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1036.0,thousand barrels
 2025-07,R50,PADD 5 — West Coast,37.0,-120.0,664.0,thousand barrels
@@ -679,13 +679,18 @@ date,region_code,region_name,lat,lon,production,unit
 2026-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,10440.0,thousand barrels
 2026-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1018.0,thousand barrels
 2026-04,R50,PADD 5 — West Coast,37.0,-120.0,696.0,thousand barrels
-2026-05,R10,PADD 1 — East Coast,39.0,-77.0,1701.0,thousand barrels
-2026-05,R20,PADD 2 — Midwest,41.5,-93.0,1767.0,thousand barrels
-2026-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,10221.0,thousand barrels
-2026-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1009.0,thousand barrels
+2026-05,R10,PADD 1 — East Coast,39.0,-77.0,1697.0,thousand barrels
+2026-05,R20,PADD 2 — Midwest,41.5,-93.0,1768.0,thousand barrels
+2026-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,10274.0,thousand barrels
+2026-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1012.0,thousand barrels
 2026-05,R50,PADD 5 — West Coast,37.0,-120.0,703.0,thousand barrels
-2026-06,R10,PADD 1 — East Coast,39.0,-77.0,1605.0,thousand barrels
-2026-06,R20,PADD 2 — Midwest,41.5,-93.0,54657.0,thousand barrels
-2026-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,306065.0,thousand barrels
-2026-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30418.0,thousand barrels
-2026-06,R50,PADD 5 — West Coast,37.0,-120.0,21015.0,thousand barrels
+2026-06,R10,PADD 1 — East Coast,39.0,-77.0,1600.0,thousand barrels
+2026-06,R20,PADD 2 — Midwest,41.5,-93.0,1820.0,thousand barrels
+2026-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,10254.0,thousand barrels
+2026-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1018.0,thousand barrels
+2026-06,R50,PADD 5 — West Coast,37.0,-120.0,700.0,thousand barrels
+2026-07,R10,PADD 1 — East Coast,39.0,-77.0,1618.0,thousand barrels
+2026-07,R20,PADD 2 — Midwest,41.5,-93.0,56303.0,thousand barrels
+2026-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,320497.0,thousand barrels
+2026-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31848.0,thousand barrels
+2026-07,R50,PADD 5 — West Coast,37.0,-120.0,22108.0,thousand barrels
