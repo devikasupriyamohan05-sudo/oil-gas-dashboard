@@ -8710,6 +8710,8 @@ date,commodity,unit,price
 2026-07-02,Henry Hub Natural Gas,$/MMBtu,3.34
 2026-07-02,WTI Crude,$/barrel,69.73
 2026-07-03,Brent Crude,$/barrel,68.68
+2026-07-03,Henry Hub Natural Gas,$/MMBtu,3.34
+2026-07-03,WTI Crude,$/barrel,69.83
 2026-07-06,Brent Crude,$/barrel,69.56
 2026-07-06,Henry Hub Natural Gas,$/MMBtu,3.29
 2026-07-06,WTI Crude,$/barrel,69.6
@@ -8845,6 +8847,8 @@ date,commodity,unit,price
 2026-09-04,Henry Hub Natural Gas,$/MMBtu,2.92
 2026-09-04,WTI Crude,$/barrel,92.69
 2026-09-07,Brent Crude,$/barrel,104.47
+2026-09-07,Henry Hub Natural Gas,$/MMBtu,2.92
+2026-09-07,WTI Crude,$/barrel,92.69
 2026-09-08,Brent Crude,$/barrel,106.12
 2026-09-08,Henry Hub Natural Gas,$/MMBtu,2.9
 2026-09-08,WTI Crude,$/barrel,94.21
@@ -8908,3 +8912,21 @@ date,commodity,unit,price
 2026-10-06,Brent Crude,$/barrel,125.44
 2026-10-06,Henry Hub Natural Gas,$/MMBtu,3.03
 2026-10-06,WTI Crude,$/barrel,96.24
+2026-10-07,Brent Crude,$/barrel,126.0
+2026-10-07,Henry Hub Natural Gas,$/MMBtu,3.16
+2026-10-07,WTI Crude,$/barrel,95.02
+2026-10-08,Brent Crude,$/barrel,130.18
+2026-10-08,Henry Hub Natural Gas,$/MMBtu,3.24
+2026-10-08,WTI Crude,$/barrel,98.26
+2026-10-09,Brent Crude,$/barrel,130.03
+2026-10-09,Henry Hub Natural Gas,$/MMBtu,3.1
+2026-10-09,WTI Crude,$/barrel,98.73
+2026-10-12,Brent Crude,$/barrel,129.95
+2026-10-12,Henry Hub Natural Gas,$/MMBtu,3.1
+2026-10-12,WTI Crude,$/barrel,98.73
+2026-10-13,Brent Crude,$/barrel,125.78
+2026-10-13,Henry Hub Natural Gas,$/MMBtu,3.14
+2026-10-13,WTI Crude,$/barrel,100.86
+2026-10-14,Brent Crude,$/barrel,126.55
+2026-10-14,Henry Hub Natural Gas,$/MMBtu,3.22
+2026-10-14,WTI Crude,$/barrel,101.91
