@@ -1,701 +1,716 @@
 date,region_code,region_name,lat,lon,production,unit
-2015-01,R10,PADD 1 — East Coast,39.0,-77.0,1509.0,thousand barrels
-2015-01,R20,PADD 2 — Midwest,41.5,-93.0,1902.0,thousand barrels
-2015-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,5562.0,thousand barrels
-2015-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,746.0,thousand barrels
-2015-01,R50,PADD 5 — West Coast,37.0,-120.0,1118.0,thousand barrels
-2015-02,R10,PADD 1 — East Coast,39.0,-77.0,1452.0,thousand barrels
-2015-02,R20,PADD 2 — Midwest,41.5,-93.0,1861.0,thousand barrels
-2015-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,5709.0,thousand barrels
-2015-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,758.0,thousand barrels
-2015-02,R50,PADD 5 — West Coast,37.0,-120.0,1105.0,thousand barrels
-2015-03,R10,PADD 1 — East Coast,39.0,-77.0,1622.0,thousand barrels
-2015-03,R20,PADD 2 — Midwest,41.5,-93.0,1928.0,thousand barrels
-2015-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,5715.0,thousand barrels
-2015-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,771.0,thousand barrels
-2015-03,R50,PADD 5 — West Coast,37.0,-120.0,1113.0,thousand barrels
-2015-04,R10,PADD 1 — East Coast,39.0,-77.0,1510.0,thousand barrels
-2015-04,R20,PADD 2 — Midwest,41.5,-93.0,1915.0,thousand barrels
-2015-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,5796.0,thousand barrels
-2015-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,777.0,thousand barrels
-2015-04,R50,PADD 5 — West Coast,37.0,-120.0,1114.0,thousand barrels
-2015-05,R10,PADD 1 — East Coast,39.0,-77.0,1626.0,thousand barrels
-2015-05,R20,PADD 2 — Midwest,41.5,-93.0,1933.0,thousand barrels
-2015-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,5635.0,thousand barrels
-2015-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,766.0,thousand barrels
-2015-05,R50,PADD 5 — West Coast,37.0,-120.0,1079.0,thousand barrels
-2015-06,R10,PADD 1 — East Coast,39.0,-77.0,1566.0,thousand barrels
-2015-06,R20,PADD 2 — Midwest,41.5,-93.0,1951.0,thousand barrels
-2015-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,5574.0,thousand barrels
-2015-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,753.0,thousand barrels
-2015-06,R50,PADD 5 — West Coast,37.0,-120.0,1021.0,thousand barrels
-2015-07,R10,PADD 1 — East Coast,39.0,-77.0,1543.0,thousand barrels
-2015-07,R20,PADD 2 — Midwest,41.5,-93.0,1919.0,thousand barrels
-2015-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,5698.0,thousand barrels
-2015-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,755.0,thousand barrels
-2015-07,R50,PADD 5 — West Coast,37.0,-120.0,1014.0,thousand barrels
-2015-08,R10,PADD 1 — East Coast,39.0,-77.0,1453.0,thousand barrels
-2015-08,R20,PADD 2 — Midwest,41.5,-93.0,1890.0,thousand barrels
-2015-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,5734.0,thousand barrels
-2015-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,755.0,thousand barrels
-2015-08,R50,PADD 5 — West Coast,37.0,-120.0,974.0,thousand barrels
-2015-09,R10,PADD 1 — East Coast,39.0,-77.0,1390.0,thousand barrels
-2015-09,R20,PADD 2 — Midwest,41.5,-93.0,1873.0,thousand barrels
-2015-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,5771.0,thousand barrels
-2015-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,743.0,thousand barrels
-2015-09,R50,PADD 5 — West Coast,37.0,-120.0,1038.0,thousand barrels
-2015-10,R10,PADD 1 — East Coast,39.0,-77.0,1388.0,thousand barrels
-2015-10,R20,PADD 2 — Midwest,41.5,-93.0,1889.0,thousand barrels
-2015-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,5659.0,thousand barrels
-2015-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,742.0,thousand barrels
-2015-10,R50,PADD 5 — West Coast,37.0,-120.0,1060.0,thousand barrels
-2015-11,R10,PADD 1 — East Coast,39.0,-77.0,1334.0,thousand barrels
-2015-11,R20,PADD 2 — Midwest,41.5,-93.0,1863.0,thousand barrels
-2015-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,5600.0,thousand barrels
-2015-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,733.0,thousand barrels
-2015-11,R50,PADD 5 — West Coast,37.0,-120.0,1087.0,thousand barrels
-2015-12,R10,PADD 1 — East Coast,39.0,-77.0,1506.0,thousand barrels
-2015-12,R20,PADD 2 — Midwest,41.5,-93.0,1869.0,thousand barrels
-2015-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,5553.0,thousand barrels
-2015-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,719.0,thousand barrels
-2015-12,R50,PADD 5 — West Coast,37.0,-120.0,1080.0,thousand barrels
-2016-01,R10,PADD 1 — East Coast,39.0,-77.0,1442.0,thousand barrels
-2016-01,R20,PADD 2 — Midwest,41.5,-93.0,1815.0,thousand barrels
-2016-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,5575.0,thousand barrels
-2016-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,704.0,thousand barrels
-2016-01,R50,PADD 5 — West Coast,37.0,-120.0,1072.0,thousand barrels
-2016-02,R10,PADD 1 — East Coast,39.0,-77.0,1312.0,thousand barrels
-2016-02,R20,PADD 2 — Midwest,41.5,-93.0,1761.0,thousand barrels
-2016-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,5523.0,thousand barrels
-2016-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,688.0,thousand barrels
-2016-02,R50,PADD 5 — West Coast,37.0,-120.0,1055.0,thousand barrels
-2016-03,R10,PADD 1 — East Coast,39.0,-77.0,1367.0,thousand barrels
-2016-03,R20,PADD 2 — Midwest,41.5,-93.0,1799.0,thousand barrels
-2016-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,5538.0,thousand barrels
-2016-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,678.0,thousand barrels
-2016-03,R50,PADD 5 — West Coast,37.0,-120.0,1057.0,thousand barrels
-2016-04,R10,PADD 1 — East Coast,39.0,-77.0,1361.0,thousand barrels
-2016-04,R20,PADD 2 — Midwest,41.5,-93.0,1681.0,thousand barrels
-2016-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,5462.0,thousand barrels
-2016-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,674.0,thousand barrels
-2016-04,R50,PADD 5 — West Coast,37.0,-120.0,1023.0,thousand barrels
-2016-05,R10,PADD 1 — East Coast,39.0,-77.0,1388.0,thousand barrels
-2016-05,R20,PADD 2 — Midwest,41.5,-93.0,1704.0,thousand barrels
-2016-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,5411.0,thousand barrels
-2016-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,655.0,thousand barrels
-2016-05,R50,PADD 5 — West Coast,37.0,-120.0,1031.0,thousand barrels
-2016-06,R10,PADD 1 — East Coast,39.0,-77.0,1281.0,thousand barrels
-2016-06,R20,PADD 2 — Midwest,41.5,-93.0,1690.0,thousand barrels
-2016-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,5337.0,thousand barrels
-2016-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,645.0,thousand barrels
-2016-06,R50,PADD 5 — West Coast,37.0,-120.0,971.0,thousand barrels
-2016-07,R10,PADD 1 — East Coast,39.0,-77.0,1349.0,thousand barrels
-2016-07,R20,PADD 2 — Midwest,41.5,-93.0,1661.0,thousand barrels
-2016-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,5353.0,thousand barrels
-2016-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,657.0,thousand barrels
-2016-07,R50,PADD 5 — West Coast,37.0,-120.0,961.0,thousand barrels
-2016-08,R10,PADD 1 — East Coast,39.0,-77.0,1374.0,thousand barrels
-2016-08,R20,PADD 2 — Midwest,41.5,-93.0,1617.0,thousand barrels
-2016-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,5400.0,thousand barrels
-2016-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,654.0,thousand barrels
-2016-08,R50,PADD 5 — West Coast,37.0,-120.0,985.0,thousand barrels
-2016-09,R10,PADD 1 — East Coast,39.0,-77.0,1233.0,thousand barrels
-2016-09,R20,PADD 2 — Midwest,41.5,-93.0,1601.0,thousand barrels
-2016-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,5285.0,thousand barrels
-2016-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,651.0,thousand barrels
-2016-09,R50,PADD 5 — West Coast,37.0,-120.0,975.0,thousand barrels
-2016-10,R10,PADD 1 — East Coast,39.0,-77.0,1280.0,thousand barrels
-2016-10,R20,PADD 2 — Midwest,41.5,-93.0,1678.0,thousand barrels
-2016-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,5423.0,thousand barrels
-2016-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,658.0,thousand barrels
-2016-10,R50,PADD 5 — West Coast,37.0,-120.0,1014.0,thousand barrels
-2016-11,R10,PADD 1 — East Coast,39.0,-77.0,1289.0,thousand barrels
-2016-11,R20,PADD 2 — Midwest,41.5,-93.0,1678.0,thousand barrels
-2016-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,5511.0,thousand barrels
-2016-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,654.0,thousand barrels
-2016-11,R50,PADD 5 — West Coast,37.0,-120.0,1030.0,thousand barrels
-2016-12,R10,PADD 1 — East Coast,39.0,-77.0,1297.0,thousand barrels
-2016-12,R20,PADD 2 — Midwest,41.5,-93.0,1571.0,thousand barrels
-2016-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,5562.0,thousand barrels
-2016-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,634.0,thousand barrels
-2016-12,R50,PADD 5 — West Coast,37.0,-120.0,1018.0,thousand barrels
-2017-01,R10,PADD 1 — East Coast,39.0,-77.0,1315.0,thousand barrels
-2017-01,R20,PADD 2 — Midwest,41.5,-93.0,1601.0,thousand barrels
-2017-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,5597.0,thousand barrels
-2017-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,622.0,thousand barrels
-2017-01,R50,PADD 5 — West Coast,37.0,-120.0,1019.0,thousand barrels
-2017-02,R10,PADD 1 — East Coast,39.0,-77.0,1181.0,thousand barrels
-2017-02,R20,PADD 2 — Midwest,41.5,-93.0,1679.0,thousand barrels
-2017-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,5740.0,thousand barrels
-2017-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,632.0,thousand barrels
-2017-02,R50,PADD 5 — West Coast,37.0,-120.0,1027.0,thousand barrels
-2017-03,R10,PADD 1 — East Coast,39.0,-77.0,1290.0,thousand barrels
-2017-03,R20,PADD 2 — Midwest,41.5,-93.0,1684.0,thousand barrels
-2017-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,5771.0,thousand barrels
-2017-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,660.0,thousand barrels
-2017-03,R50,PADD 5 — West Coast,37.0,-120.0,1023.0,thousand barrels
-2017-04,R10,PADD 1 — East Coast,39.0,-77.0,1297.0,thousand barrels
-2017-04,R20,PADD 2 — Midwest,41.5,-93.0,1698.0,thousand barrels
-2017-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,5673.0,thousand barrels
-2017-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,679.0,thousand barrels
-2017-04,R50,PADD 5 — West Coast,37.0,-120.0,1023.0,thousand barrels
-2017-05,R10,PADD 1 — East Coast,39.0,-77.0,1366.0,thousand barrels
-2017-05,R20,PADD 2 — Midwest,41.5,-93.0,1683.0,thousand barrels
-2017-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,5785.0,thousand barrels
-2017-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,688.0,thousand barrels
-2017-05,R50,PADD 5 — West Coast,37.0,-120.0,1003.0,thousand barrels
-2017-06,R10,PADD 1 — East Coast,39.0,-77.0,1323.0,thousand barrels
-2017-06,R20,PADD 2 — Midwest,41.5,-93.0,1703.0,thousand barrels
-2017-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,5735.0,thousand barrels
-2017-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,688.0,thousand barrels
-2017-06,R50,PADD 5 — West Coast,37.0,-120.0,953.0,thousand barrels
-2017-07,R10,PADD 1 — East Coast,39.0,-77.0,1496.0,thousand barrels
-2017-07,R20,PADD 2 — Midwest,41.5,-93.0,1704.0,thousand barrels
-2017-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,5891.0,thousand barrels
-2017-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,703.0,thousand barrels
-2017-07,R50,PADD 5 — West Coast,37.0,-120.0,922.0,thousand barrels
-2017-08,R10,PADD 1 — East Coast,39.0,-77.0,1516.0,thousand barrels
-2017-08,R20,PADD 2 — Midwest,41.5,-93.0,1770.0,thousand barrels
-2017-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,5767.0,thousand barrels
-2017-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,738.0,thousand barrels
-2017-08,R50,PADD 5 — West Coast,37.0,-120.0,950.0,thousand barrels
-2017-09,R10,PADD 1 — East Coast,39.0,-77.0,1408.0,thousand barrels
-2017-09,R20,PADD 2 — Midwest,41.5,-93.0,1781.0,thousand barrels
-2017-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,5962.0,thousand barrels
-2017-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,769.0,thousand barrels
-2017-09,R50,PADD 5 — West Coast,37.0,-120.0,967.0,thousand barrels
-2017-10,R10,PADD 1 — East Coast,39.0,-77.0,1660.0,thousand barrels
-2017-10,R20,PADD 2 — Midwest,41.5,-93.0,1875.0,thousand barrels
-2017-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,5977.0,thousand barrels
-2017-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,783.0,thousand barrels
-2017-10,R50,PADD 5 — West Coast,37.0,-120.0,992.0,thousand barrels
-2017-11,R10,PADD 1 — East Coast,39.0,-77.0,1629.0,thousand barrels
-2017-11,R20,PADD 2 — Midwest,41.5,-93.0,1917.0,thousand barrels
-2017-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,6336.0,thousand barrels
-2017-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,800.0,thousand barrels
-2017-11,R50,PADD 5 — West Coast,37.0,-120.0,994.0,thousand barrels
-2017-12,R10,PADD 1 — East Coast,39.0,-77.0,1647.0,thousand barrels
-2017-12,R20,PADD 2 — Midwest,41.5,-93.0,1887.0,thousand barrels
-2017-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,6273.0,thousand barrels
-2017-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,811.0,thousand barrels
-2017-12,R50,PADD 5 — West Coast,37.0,-120.0,983.0,thousand barrels
-2018-01,R10,PADD 1 — East Coast,39.0,-77.0,1637.0,thousand barrels
-2018-01,R20,PADD 2 — Midwest,41.5,-93.0,1901.0,thousand barrels
-2018-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,6275.0,thousand barrels
-2018-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,810.0,thousand barrels
-2018-01,R50,PADD 5 — West Coast,37.0,-120.0,976.0,thousand barrels
-2018-02,R10,PADD 1 — East Coast,39.0,-77.0,1478.0,thousand barrels
-2018-02,R20,PADD 2 — Midwest,41.5,-93.0,1908.0,thousand barrels
-2018-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,6536.0,thousand barrels
-2018-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,806.0,thousand barrels
-2018-02,R50,PADD 5 — West Coast,37.0,-120.0,994.0,thousand barrels
-2018-03,R10,PADD 1 — East Coast,39.0,-77.0,1673.0,thousand barrels
-2018-03,R20,PADD 2 — Midwest,41.5,-93.0,1930.0,thousand barrels
-2018-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,6718.0,thousand barrels
-2018-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,825.0,thousand barrels
-2018-03,R50,PADD 5 — West Coast,37.0,-120.0,955.0,thousand barrels
-2018-04,R10,PADD 1 — East Coast,39.0,-77.0,1614.0,thousand barrels
-2018-04,R20,PADD 2 — Midwest,41.5,-93.0,1969.0,thousand barrels
-2018-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,6686.0,thousand barrels
-2018-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,837.0,thousand barrels
-2018-04,R50,PADD 5 — West Coast,37.0,-120.0,965.0,thousand barrels
-2018-05,R10,PADD 1 — East Coast,39.0,-77.0,1657.0,thousand barrels
-2018-05,R20,PADD 2 — Midwest,41.5,-93.0,1997.0,thousand barrels
-2018-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,6634.0,thousand barrels
-2018-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,829.0,thousand barrels
-2018-05,R50,PADD 5 — West Coast,37.0,-120.0,936.0,thousand barrels
-2018-06,R10,PADD 1 — East Coast,39.0,-77.0,1636.0,thousand barrels
-2018-06,R20,PADD 2 — Midwest,41.5,-93.0,1962.0,thousand barrels
-2018-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,6904.0,thousand barrels
-2018-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,806.0,thousand barrels
-2018-06,R50,PADD 5 — West Coast,37.0,-120.0,930.0,thousand barrels
-2018-07,R10,PADD 1 — East Coast,39.0,-77.0,1770.0,thousand barrels
-2018-07,R20,PADD 2 — Midwest,41.5,-93.0,2025.0,thousand barrels
-2018-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,7162.0,thousand barrels
-2018-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,829.0,thousand barrels
-2018-07,R50,PADD 5 — West Coast,37.0,-120.0,849.0,thousand barrels
-2018-08,R10,PADD 1 — East Coast,39.0,-77.0,1919.0,thousand barrels
-2018-08,R20,PADD 2 — Midwest,41.5,-93.0,2104.0,thousand barrels
-2018-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,7458.0,thousand barrels
-2018-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,894.0,thousand barrels
-2018-08,R50,PADD 5 — West Coast,37.0,-120.0,897.0,thousand barrels
-2018-09,R10,PADD 1 — East Coast,39.0,-77.0,1992.0,thousand barrels
-2018-09,R20,PADD 2 — Midwest,41.5,-93.0,2139.0,thousand barrels
-2018-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,7414.0,thousand barrels
-2018-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,919.0,thousand barrels
-2018-09,R50,PADD 5 — West Coast,37.0,-120.0,928.0,thousand barrels
-2018-10,R10,PADD 1 — East Coast,39.0,-77.0,2130.0,thousand barrels
-2018-10,R20,PADD 2 — Midwest,41.5,-93.0,2191.0,thousand barrels
-2018-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,7431.0,thousand barrels
-2018-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,923.0,thousand barrels
-2018-10,R50,PADD 5 — West Coast,37.0,-120.0,914.0,thousand barrels
-2018-11,R10,PADD 1 — East Coast,39.0,-77.0,1871.0,thousand barrels
-2018-11,R20,PADD 2 — Midwest,41.5,-93.0,2183.0,thousand barrels
-2018-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,7767.0,thousand barrels
-2018-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,949.0,thousand barrels
-2018-11,R50,PADD 5 — West Coast,37.0,-120.0,949.0,thousand barrels
-2018-12,R10,PADD 1 — East Coast,39.0,-77.0,1904.0,thousand barrels
-2018-12,R20,PADD 2 — Midwest,41.5,-93.0,2231.0,thousand barrels
-2018-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,7813.0,thousand barrels
-2018-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,953.0,thousand barrels
-2018-12,R50,PADD 5 — West Coast,37.0,-120.0,912.0,thousand barrels
-2019-01,R10,PADD 1 — East Coast,39.0,-77.0,2072.0,thousand barrels
-2019-01,R20,PADD 2 — Midwest,41.5,-93.0,2207.0,thousand barrels
-2019-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,7739.0,thousand barrels
-2019-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,935.0,thousand barrels
-2019-01,R50,PADD 5 — West Coast,37.0,-120.0,946.0,thousand barrels
-2019-02,R10,PADD 1 — East Coast,39.0,-77.0,1715.0,thousand barrels
-2019-02,R20,PADD 2 — Midwest,41.5,-93.0,2118.0,thousand barrels
-2019-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,7648.0,thousand barrels
-2019-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,924.0,thousand barrels
-2019-02,R50,PADD 5 — West Coast,37.0,-120.0,941.0,thousand barrels
-2019-03,R10,PADD 1 — East Coast,39.0,-77.0,1759.0,thousand barrels
-2019-03,R20,PADD 2 — Midwest,41.5,-93.0,2199.0,thousand barrels
-2019-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,7859.0,thousand barrels
-2019-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,908.0,thousand barrels
-2019-03,R50,PADD 5 — West Coast,37.0,-120.0,908.0,thousand barrels
-2019-04,R10,PADD 1 — East Coast,39.0,-77.0,1936.0,thousand barrels
-2019-04,R20,PADD 2 — Midwest,41.5,-93.0,2223.0,thousand barrels
-2019-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,8006.0,thousand barrels
-2019-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,945.0,thousand barrels
-2019-04,R50,PADD 5 — West Coast,37.0,-120.0,925.0,thousand barrels
-2019-05,R10,PADD 1 — East Coast,39.0,-77.0,2007.0,thousand barrels
-2019-05,R20,PADD 2 — Midwest,41.5,-93.0,2209.0,thousand barrels
-2019-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,8010.0,thousand barrels
-2019-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,962.0,thousand barrels
-2019-05,R50,PADD 5 — West Coast,37.0,-120.0,923.0,thousand barrels
-2019-06,R10,PADD 1 — East Coast,39.0,-77.0,2071.0,thousand barrels
-2019-06,R20,PADD 2 — Midwest,41.5,-93.0,2240.0,thousand barrels
-2019-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,8055.0,thousand barrels
-2019-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,967.0,thousand barrels
-2019-06,R50,PADD 5 — West Coast,37.0,-120.0,906.0,thousand barrels
-2019-07,R10,PADD 1 — East Coast,39.0,-77.0,2274.0,thousand barrels
-2019-07,R20,PADD 2 — Midwest,41.5,-93.0,2270.0,thousand barrels
-2019-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,7723.0,thousand barrels
-2019-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,963.0,thousand barrels
-2019-07,R50,PADD 5 — West Coast,37.0,-120.0,895.0,thousand barrels
-2019-08,R10,PADD 1 — East Coast,39.0,-77.0,2366.0,thousand barrels
-2019-08,R20,PADD 2 — Midwest,41.5,-93.0,2283.0,thousand barrels
-2019-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,8351.0,thousand barrels
-2019-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,973.0,thousand barrels
-2019-08,R50,PADD 5 — West Coast,37.0,-120.0,821.0,thousand barrels
-2019-09,R10,PADD 1 — East Coast,39.0,-77.0,2391.0,thousand barrels
-2019-09,R20,PADD 2 — Midwest,41.5,-93.0,2304.0,thousand barrels
-2019-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,8355.0,thousand barrels
-2019-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,983.0,thousand barrels
-2019-09,R50,PADD 5 — West Coast,37.0,-120.0,892.0,thousand barrels
-2019-10,R10,PADD 1 — East Coast,39.0,-77.0,2620.0,thousand barrels
-2019-10,R20,PADD 2 — Midwest,41.5,-93.0,2367.0,thousand barrels
-2019-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,8442.0,thousand barrels
-2019-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1025.0,thousand barrels
-2019-10,R50,PADD 5 — West Coast,37.0,-120.0,914.0,thousand barrels
-2019-11,R10,PADD 1 — East Coast,39.0,-77.0,2421.0,thousand barrels
-2019-11,R20,PADD 2 — Midwest,41.5,-93.0,2332.0,thousand barrels
-2019-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,8649.0,thousand barrels
-2019-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1039.0,thousand barrels
-2019-11,R50,PADD 5 — West Coast,37.0,-120.0,919.0,thousand barrels
-2019-12,R10,PADD 1 — East Coast,39.0,-77.0,2399.0,thousand barrels
-2019-12,R20,PADD 2 — Midwest,41.5,-93.0,2325.0,thousand barrels
-2019-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,8678.0,thousand barrels
-2019-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1023.0,thousand barrels
-2019-12,R50,PADD 5 — West Coast,37.0,-120.0,899.0,thousand barrels
-2020-01,R10,PADD 1 — East Coast,39.0,-77.0,2495.0,thousand barrels
-2020-01,R20,PADD 2 — Midwest,41.5,-93.0,2205.0,thousand barrels
-2020-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,8708.0,thousand barrels
-2020-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,992.0,thousand barrels
-2020-01,R50,PADD 5 — West Coast,37.0,-120.0,898.0,thousand barrels
-2020-02,R10,PADD 1 — East Coast,39.0,-77.0,2319.0,thousand barrels
-2020-02,R20,PADD 2 — Midwest,41.5,-93.0,2236.0,thousand barrels
-2020-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,8687.0,thousand barrels
-2020-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,964.0,thousand barrels
-2020-02,R50,PADD 5 — West Coast,37.0,-120.0,913.0,thousand barrels
-2020-03,R10,PADD 1 — East Coast,39.0,-77.0,2204.0,thousand barrels
-2020-03,R20,PADD 2 — Midwest,41.5,-93.0,2191.0,thousand barrels
-2020-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,8738.0,thousand barrels
-2020-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,959.0,thousand barrels
-2020-03,R50,PADD 5 — West Coast,37.0,-120.0,859.0,thousand barrels
-2020-04,R10,PADD 1 — East Coast,39.0,-77.0,1953.0,thousand barrels
-2020-04,R20,PADD 2 — Midwest,41.5,-93.0,1874.0,thousand barrels
-2020-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,8219.0,thousand barrels
-2020-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,886.0,thousand barrels
-2020-04,R50,PADD 5 — West Coast,37.0,-120.0,888.0,thousand barrels
-2020-05,R10,PADD 1 — East Coast,39.0,-77.0,1885.0,thousand barrels
-2020-05,R20,PADD 2 — Midwest,41.5,-93.0,1326.0,thousand barrels
-2020-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,6802.0,thousand barrels
-2020-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,741.0,thousand barrels
-2020-05,R50,PADD 5 — West Coast,37.0,-120.0,804.0,thousand barrels
-2020-06,R10,PADD 1 — East Coast,39.0,-77.0,1985.0,thousand barrels
-2020-06,R20,PADD 2 — Midwest,41.5,-93.0,1559.0,thousand barrels
-2020-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,7256.0,thousand barrels
-2020-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,807.0,thousand barrels
-2020-06,R50,PADD 5 — West Coast,37.0,-120.0,775.0,thousand barrels
-2020-07,R10,PADD 1 — East Coast,39.0,-77.0,2005.0,thousand barrels
-2020-07,R20,PADD 2 — Midwest,41.5,-93.0,1735.0,thousand barrels
-2020-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,7530.0,thousand barrels
-2020-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,843.0,thousand barrels
-2020-07,R50,PADD 5 — West Coast,37.0,-120.0,851.0,thousand barrels
-2020-08,R10,PADD 1 — East Coast,39.0,-77.0,2275.0,thousand barrels
-2020-08,R20,PADD 2 — Midwest,41.5,-93.0,1830.0,thousand barrels
-2020-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,7023.0,thousand barrels
-2020-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,845.0,thousand barrels
-2020-08,R50,PADD 5 — West Coast,37.0,-120.0,840.0,thousand barrels
-2020-09,R10,PADD 1 — East Coast,39.0,-77.0,2411.0,thousand barrels
-2020-09,R20,PADD 2 — Midwest,41.5,-93.0,1865.0,thousand barrels
-2020-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,7358.0,thousand barrels
-2020-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,820.0,thousand barrels
-2020-09,R50,PADD 5 — West Coast,37.0,-120.0,852.0,thousand barrels
-2020-10,R10,PADD 1 — East Coast,39.0,-77.0,2397.0,thousand barrels
-2020-10,R20,PADD 2 — Midwest,41.5,-93.0,1845.0,thousand barrels
-2020-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,6942.0,thousand barrels
-2020-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,785.0,thousand barrels
-2020-10,R50,PADD 5 — West Coast,37.0,-120.0,854.0,thousand barrels
-2020-11,R10,PADD 1 — East Coast,39.0,-77.0,2253.0,thousand barrels
-2020-11,R20,PADD 2 — Midwest,41.5,-93.0,1876.0,thousand barrels
-2020-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,7634.0,thousand barrels
-2020-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,781.0,thousand barrels
-2020-11,R50,PADD 5 — West Coast,37.0,-120.0,870.0,thousand barrels
-2020-12,R10,PADD 1 — East Coast,39.0,-77.0,2307.0,thousand barrels
-2020-12,R20,PADD 2 — Midwest,41.5,-93.0,1826.0,thousand barrels
-2020-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,7666.0,thousand barrels
-2020-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,765.0,thousand barrels
-2020-12,R50,PADD 5 — West Coast,37.0,-120.0,867.0,thousand barrels
-2021-01,R10,PADD 1 — East Coast,39.0,-77.0,2357.0,thousand barrels
-2021-01,R20,PADD 2 — Midwest,41.5,-93.0,1766.0,thousand barrels
-2021-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,7703.0,thousand barrels
-2021-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,775.0,thousand barrels
-2021-01,R50,PADD 5 — West Coast,37.0,-120.0,847.0,thousand barrels
-2021-02,R10,PADD 1 — East Coast,39.0,-77.0,1983.0,thousand barrels
-2021-02,R20,PADD 2 — Midwest,41.5,-93.0,1572.0,thousand barrels
-2021-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,6706.0,thousand barrels
-2021-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,753.0,thousand barrels
-2021-02,R50,PADD 5 — West Coast,37.0,-120.0,850.0,thousand barrels
-2021-03,R10,PADD 1 — East Coast,39.0,-77.0,2326.0,thousand barrels
-2021-03,R20,PADD 2 — Midwest,41.5,-93.0,1719.0,thousand barrels
-2021-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,7994.0,thousand barrels
-2021-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,755.0,thousand barrels
-2021-03,R50,PADD 5 — West Coast,37.0,-120.0,844.0,thousand barrels
-2021-04,R10,PADD 1 — East Coast,39.0,-77.0,2383.0,thousand barrels
-2021-04,R20,PADD 2 — Midwest,41.5,-93.0,1719.0,thousand barrels
-2021-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,7932.0,thousand barrels
-2021-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,797.0,thousand barrels
-2021-04,R50,PADD 5 — West Coast,37.0,-120.0,838.0,thousand barrels
-2021-05,R10,PADD 1 — East Coast,39.0,-77.0,2380.0,thousand barrels
-2021-05,R20,PADD 2 — Midwest,41.5,-93.0,1730.0,thousand barrels
-2021-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,8005.0,thousand barrels
-2021-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,794.0,thousand barrels
-2021-05,R50,PADD 5 — West Coast,37.0,-120.0,831.0,thousand barrels
-2021-06,R10,PADD 1 — East Coast,39.0,-77.0,2191.0,thousand barrels
-2021-06,R20,PADD 2 — Midwest,41.5,-93.0,1725.0,thousand barrels
-2021-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,7997.0,thousand barrels
-2021-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,784.0,thousand barrels
-2021-06,R50,PADD 5 — West Coast,37.0,-120.0,831.0,thousand barrels
-2021-07,R10,PADD 1 — East Coast,39.0,-77.0,2074.0,thousand barrels
-2021-07,R20,PADD 2 — Midwest,41.5,-93.0,1654.0,thousand barrels
-2021-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,8142.0,thousand barrels
-2021-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,795.0,thousand barrels
-2021-07,R50,PADD 5 — West Coast,37.0,-120.0,771.0,thousand barrels
-2021-08,R10,PADD 1 — East Coast,39.0,-77.0,2240.0,thousand barrels
-2021-08,R20,PADD 2 — Midwest,41.5,-93.0,1681.0,thousand barrels
-2021-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,7971.0,thousand barrels
-2021-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,807.0,thousand barrels
-2021-08,R50,PADD 5 — West Coast,37.0,-120.0,796.0,thousand barrels
-2021-09,R10,PADD 1 — East Coast,39.0,-77.0,2230.0,thousand barrels
-2021-09,R20,PADD 2 — Midwest,41.5,-93.0,1713.0,thousand barrels
-2021-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,7541.0,thousand barrels
-2021-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,822.0,thousand barrels
-2021-09,R50,PADD 5 — West Coast,37.0,-120.0,820.0,thousand barrels
-2021-10,R10,PADD 1 — East Coast,39.0,-77.0,1966.0,thousand barrels
-2021-10,R20,PADD 2 — Midwest,41.5,-93.0,1702.0,thousand barrels
-2021-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,8216.0,thousand barrels
-2021-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,858.0,thousand barrels
-2021-10,R50,PADD 5 — West Coast,37.0,-120.0,810.0,thousand barrels
-2021-11,R10,PADD 1 — East Coast,39.0,-77.0,1886.0,thousand barrels
-2021-11,R20,PADD 2 — Midwest,41.5,-93.0,1741.0,thousand barrels
-2021-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,8385.0,thousand barrels
-2021-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,861.0,thousand barrels
-2021-11,R50,PADD 5 — West Coast,37.0,-120.0,833.0,thousand barrels
-2021-12,R10,PADD 1 — East Coast,39.0,-77.0,1865.0,thousand barrels
-2021-12,R20,PADD 2 — Midwest,41.5,-93.0,1744.0,thousand barrels
-2021-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,8292.0,thousand barrels
-2021-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,856.0,thousand barrels
-2021-12,R50,PADD 5 — West Coast,37.0,-120.0,830.0,thousand barrels
-2022-01,R10,PADD 1 — East Coast,39.0,-77.0,1845.0,thousand barrels
-2022-01,R20,PADD 2 — Midwest,41.5,-93.0,1660.0,thousand barrels
-2022-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,8116.0,thousand barrels
-2022-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,828.0,thousand barrels
-2022-01,R50,PADD 5 — West Coast,37.0,-120.0,808.0,thousand barrels
-2022-02,R10,PADD 1 — East Coast,39.0,-77.0,1698.0,thousand barrels
-2022-02,R20,PADD 2 — Midwest,41.5,-93.0,1670.0,thousand barrels
-2022-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,8121.0,thousand barrels
-2022-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,842.0,thousand barrels
-2022-02,R50,PADD 5 — West Coast,37.0,-120.0,824.0,thousand barrels
-2022-03,R10,PADD 1 — East Coast,39.0,-77.0,2052.0,thousand barrels
-2022-03,R20,PADD 2 — Midwest,41.5,-93.0,1744.0,thousand barrels
-2022-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,8419.0,thousand barrels
-2022-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,864.0,thousand barrels
-2022-03,R50,PADD 5 — West Coast,37.0,-120.0,808.0,thousand barrels
-2022-04,R10,PADD 1 — East Coast,39.0,-77.0,1903.0,thousand barrels
-2022-04,R20,PADD 2 — Midwest,41.5,-93.0,1529.0,thousand barrels
-2022-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,8576.0,thousand barrels
-2022-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,865.0,thousand barrels
-2022-04,R50,PADD 5 — West Coast,37.0,-120.0,811.0,thousand barrels
-2022-05,R10,PADD 1 — East Coast,39.0,-77.0,1885.0,thousand barrels
-2022-05,R20,PADD 2 — Midwest,41.5,-93.0,1675.0,thousand barrels
-2022-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,8396.0,thousand barrels
-2022-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,865.0,thousand barrels
-2022-05,R50,PADD 5 — West Coast,37.0,-120.0,785.0,thousand barrels
-2022-06,R10,PADD 1 — East Coast,39.0,-77.0,1701.0,thousand barrels
-2022-06,R20,PADD 2 — Midwest,41.5,-93.0,1717.0,thousand barrels
-2022-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,8542.0,thousand barrels
-2022-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,870.0,thousand barrels
-2022-06,R50,PADD 5 — West Coast,37.0,-120.0,757.0,thousand barrels
-2022-07,R10,PADD 1 — East Coast,39.0,-77.0,1914.0,thousand barrels
-2022-07,R20,PADD 2 — Midwest,41.5,-93.0,1676.0,thousand barrels
-2022-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,8635.0,thousand barrels
-2022-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,868.0,thousand barrels
-2022-07,R50,PADD 5 — West Coast,37.0,-120.0,792.0,thousand barrels
-2022-08,R10,PADD 1 — East Coast,39.0,-77.0,1831.0,thousand barrels
-2022-08,R20,PADD 2 — Midwest,41.5,-93.0,1686.0,thousand barrels
-2022-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,8776.0,thousand barrels
-2022-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,888.0,thousand barrels
-2022-08,R50,PADD 5 — West Coast,37.0,-120.0,750.0,thousand barrels
-2022-09,R10,PADD 1 — East Coast,39.0,-77.0,1759.0,thousand barrels
-2022-09,R20,PADD 2 — Midwest,41.5,-93.0,1716.0,thousand barrels
-2022-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,9010.0,thousand barrels
-2022-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,886.0,thousand barrels
-2022-09,R50,PADD 5 — West Coast,37.0,-120.0,784.0,thousand barrels
-2022-10,R10,PADD 1 — East Coast,39.0,-77.0,1753.0,thousand barrels
-2022-10,R20,PADD 2 — Midwest,41.5,-93.0,1735.0,thousand barrels
-2022-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,9026.0,thousand barrels
-2022-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,899.0,thousand barrels
-2022-10,R50,PADD 5 — West Coast,37.0,-120.0,743.0,thousand barrels
-2022-11,R10,PADD 1 — East Coast,39.0,-77.0,1768.0,thousand barrels
-2022-11,R20,PADD 2 — Midwest,41.5,-93.0,1728.0,thousand barrels
-2022-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,9040.0,thousand barrels
-2022-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,911.0,thousand barrels
-2022-11,R50,PADD 5 — West Coast,37.0,-120.0,769.0,thousand barrels
-2022-12,R10,PADD 1 — East Coast,39.0,-77.0,1787.0,thousand barrels
-2022-12,R20,PADD 2 — Midwest,41.5,-93.0,1567.0,thousand barrels
-2022-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,8971.0,thousand barrels
-2022-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,851.0,thousand barrels
-2022-12,R50,PADD 5 — West Coast,37.0,-120.0,769.0,thousand barrels
-2023-01,R10,PADD 1 — East Coast,39.0,-77.0,2035.0,thousand barrels
-2023-01,R20,PADD 2 — Midwest,41.5,-93.0,1689.0,thousand barrels
-2023-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,9262.0,thousand barrels
-2023-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,863.0,thousand barrels
-2023-01,R50,PADD 5 — West Coast,37.0,-120.0,780.0,thousand barrels
-2023-02,R10,PADD 1 — East Coast,39.0,-77.0,1949.0,thousand barrels
-2023-02,R20,PADD 2 — Midwest,41.5,-93.0,1791.0,thousand barrels
-2023-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,9146.0,thousand barrels
-2023-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,855.0,thousand barrels
-2023-02,R50,PADD 5 — West Coast,37.0,-120.0,784.0,thousand barrels
-2023-03,R10,PADD 1 — East Coast,39.0,-77.0,2080.0,thousand barrels
-2023-03,R20,PADD 2 — Midwest,41.5,-93.0,1773.0,thousand barrels
-2023-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,9382.0,thousand barrels
-2023-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,899.0,thousand barrels
-2023-03,R50,PADD 5 — West Coast,37.0,-120.0,771.0,thousand barrels
-2023-04,R10,PADD 1 — East Coast,39.0,-77.0,2008.0,thousand barrels
-2023-04,R20,PADD 2 — Midwest,41.5,-93.0,1781.0,thousand barrels
-2023-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,9220.0,thousand barrels
-2023-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,914.0,thousand barrels
-2023-04,R50,PADD 5 — West Coast,37.0,-120.0,779.0,thousand barrels
-2023-05,R10,PADD 1 — East Coast,39.0,-77.0,2085.0,thousand barrels
-2023-05,R20,PADD 2 — Midwest,41.5,-93.0,1802.0,thousand barrels
-2023-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,9182.0,thousand barrels
-2023-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,932.0,thousand barrels
-2023-05,R50,PADD 5 — West Coast,37.0,-120.0,777.0,thousand barrels
-2023-06,R10,PADD 1 — East Coast,39.0,-77.0,2081.0,thousand barrels
-2023-06,R20,PADD 2 — Midwest,41.5,-93.0,1824.0,thousand barrels
-2023-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,9210.0,thousand barrels
-2023-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,947.0,thousand barrels
-2023-06,R50,PADD 5 — West Coast,37.0,-120.0,775.0,thousand barrels
-2023-07,R10,PADD 1 — East Coast,39.0,-77.0,2186.0,thousand barrels
-2023-07,R20,PADD 2 — Midwest,41.5,-93.0,1823.0,thousand barrels
-2023-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,9370.0,thousand barrels
-2023-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,935.0,thousand barrels
-2023-07,R50,PADD 5 — West Coast,37.0,-120.0,747.0,thousand barrels
-2023-08,R10,PADD 1 — East Coast,39.0,-77.0,2215.0,thousand barrels
-2023-08,R20,PADD 2 — Midwest,41.5,-93.0,1859.0,thousand barrels
-2023-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,9398.0,thousand barrels
-2023-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,964.0,thousand barrels
-2023-08,R50,PADD 5 — West Coast,37.0,-120.0,740.0,thousand barrels
-2023-09,R10,PADD 1 — East Coast,39.0,-77.0,2036.0,thousand barrels
-2023-09,R20,PADD 2 — Midwest,41.5,-93.0,1916.0,thousand barrels
-2023-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,9486.0,thousand barrels
-2023-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,966.0,thousand barrels
-2023-09,R50,PADD 5 — West Coast,37.0,-120.0,763.0,thousand barrels
-2023-10,R10,PADD 1 — East Coast,39.0,-77.0,2187.0,thousand barrels
-2023-10,R20,PADD 2 — Midwest,41.5,-93.0,1887.0,thousand barrels
-2023-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,9485.0,thousand barrels
-2023-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,985.0,thousand barrels
-2023-10,R50,PADD 5 — West Coast,37.0,-120.0,820.0,thousand barrels
-2023-11,R10,PADD 1 — East Coast,39.0,-77.0,2041.0,thousand barrels
-2023-11,R20,PADD 2 — Midwest,41.5,-93.0,1917.0,thousand barrels
-2023-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,9576.0,thousand barrels
-2023-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1011.0,thousand barrels
-2023-11,R50,PADD 5 — West Coast,37.0,-120.0,772.0,thousand barrels
-2023-12,R10,PADD 1 — East Coast,39.0,-77.0,1883.0,thousand barrels
-2023-12,R20,PADD 2 — Midwest,41.5,-93.0,1907.0,thousand barrels
-2023-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,9565.0,thousand barrels
-2023-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1021.0,thousand barrels
-2023-12,R50,PADD 5 — West Coast,37.0,-120.0,771.0,thousand barrels
-2024-01,R10,PADD 1 — East Coast,39.0,-77.0,1857.0,thousand barrels
-2024-01,R20,PADD 2 — Midwest,41.5,-93.0,1675.0,thousand barrels
-2024-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,9108.0,thousand barrels
-2024-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,949.0,thousand barrels
-2024-01,R50,PADD 5 — West Coast,37.0,-120.0,759.0,thousand barrels
-2024-02,R10,PADD 1 — East Coast,39.0,-77.0,1600.0,thousand barrels
-2024-02,R20,PADD 2 — Midwest,41.5,-93.0,1877.0,thousand barrels
-2024-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,9476.0,thousand barrels
-2024-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,992.0,thousand barrels
-2024-02,R50,PADD 5 — West Coast,37.0,-120.0,765.0,thousand barrels
-2024-03,R10,PADD 1 — East Coast,39.0,-77.0,1651.0,thousand barrels
-2024-03,R20,PADD 2 — Midwest,41.5,-93.0,1844.0,thousand barrels
-2024-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,9536.0,thousand barrels
-2024-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,998.0,thousand barrels
-2024-03,R50,PADD 5 — West Coast,37.0,-120.0,765.0,thousand barrels
-2024-04,R10,PADD 1 — East Coast,39.0,-77.0,1711.0,thousand barrels
-2024-04,R20,PADD 2 — Midwest,41.5,-93.0,1877.0,thousand barrels
-2024-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,9637.0,thousand barrels
-2024-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,991.0,thousand barrels
-2024-04,R50,PADD 5 — West Coast,37.0,-120.0,755.0,thousand barrels
-2024-05,R10,PADD 1 — East Coast,39.0,-77.0,1731.0,thousand barrels
-2024-05,R20,PADD 2 — Midwest,41.5,-93.0,1821.0,thousand barrels
-2024-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,9626.0,thousand barrels
-2024-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1008.0,thousand barrels
-2024-05,R50,PADD 5 — West Coast,37.0,-120.0,742.0,thousand barrels
-2024-06,R10,PADD 1 — East Coast,39.0,-77.0,1588.0,thousand barrels
-2024-06,R20,PADD 2 — Midwest,41.5,-93.0,1800.0,thousand barrels
-2024-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,9682.0,thousand barrels
-2024-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,994.0,thousand barrels
-2024-06,R50,PADD 5 — West Coast,37.0,-120.0,714.0,thousand barrels
-2024-07,R10,PADD 1 — East Coast,39.0,-77.0,1588.0,thousand barrels
-2024-07,R20,PADD 2 — Midwest,41.5,-93.0,1785.0,thousand barrels
-2024-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,9676.0,thousand barrels
-2024-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,993.0,thousand barrels
-2024-07,R50,PADD 5 — West Coast,37.0,-120.0,723.0,thousand barrels
-2024-08,R10,PADD 1 — East Coast,39.0,-77.0,1545.0,thousand barrels
-2024-08,R20,PADD 2 — Midwest,41.5,-93.0,1800.0,thousand barrels
-2024-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,9843.0,thousand barrels
-2024-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1009.0,thousand barrels
-2024-08,R50,PADD 5 — West Coast,37.0,-120.0,714.0,thousand barrels
-2024-09,R10,PADD 1 — East Coast,39.0,-77.0,1424.0,thousand barrels
-2024-09,R20,PADD 2 — Midwest,41.5,-93.0,1830.0,thousand barrels
-2024-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,9600.0,thousand barrels
-2024-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1024.0,thousand barrels
-2024-09,R50,PADD 5 — West Coast,37.0,-120.0,726.0,thousand barrels
-2024-10,R10,PADD 1 — East Coast,39.0,-77.0,1634.0,thousand barrels
-2024-10,R20,PADD 2 — Midwest,41.5,-93.0,1828.0,thousand barrels
-2024-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,9914.0,thousand barrels
-2024-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1055.0,thousand barrels
-2024-10,R50,PADD 5 — West Coast,37.0,-120.0,732.0,thousand barrels
-2024-11,R10,PADD 1 — East Coast,39.0,-77.0,1446.0,thousand barrels
-2024-11,R20,PADD 2 — Midwest,41.5,-93.0,1873.0,thousand barrels
-2024-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,9720.0,thousand barrels
-2024-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1095.0,thousand barrels
-2024-11,R50,PADD 5 — West Coast,37.0,-120.0,755.0,thousand barrels
-2024-12,R10,PADD 1 — East Coast,39.0,-77.0,1418.0,thousand barrels
-2024-12,R20,PADD 2 — Midwest,41.5,-93.0,1843.0,thousand barrels
-2024-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,9827.0,thousand barrels
-2024-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1068.0,thousand barrels
-2024-12,R50,PADD 5 — West Coast,37.0,-120.0,746.0,thousand barrels
-2025-01,R10,PADD 1 — East Coast,39.0,-77.0,1446.0,thousand barrels
-2025-01,R20,PADD 2 — Midwest,41.5,-93.0,1820.0,thousand barrels
-2025-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,9526.0,thousand barrels
-2025-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1025.0,thousand barrels
-2025-01,R50,PADD 5 — West Coast,37.0,-120.0,750.0,thousand barrels
-2025-02,R10,PADD 1 — East Coast,39.0,-77.0,1452.0,thousand barrels
-2025-02,R20,PADD 2 — Midwest,41.5,-93.0,1784.0,thousand barrels
-2025-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,9655.0,thousand barrels
-2025-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1030.0,thousand barrels
-2025-02,R50,PADD 5 — West Coast,37.0,-120.0,749.0,thousand barrels
-2025-03,R10,PADD 1 — East Coast,39.0,-77.0,1490.0,thousand barrels
-2025-03,R20,PADD 2 — Midwest,41.5,-93.0,1846.0,thousand barrels
-2025-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,9849.0,thousand barrels
-2025-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1043.0,thousand barrels
-2025-03,R50,PADD 5 — West Coast,37.0,-120.0,741.0,thousand barrels
-2025-04,R10,PADD 1 — East Coast,39.0,-77.0,1552.0,thousand barrels
-2025-04,R20,PADD 2 — Midwest,41.5,-93.0,1831.0,thousand barrels
-2025-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,9904.0,thousand barrels
-2025-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1028.0,thousand barrels
-2025-04,R50,PADD 5 — West Coast,37.0,-120.0,743.0,thousand barrels
-2025-05,R10,PADD 1 — East Coast,39.0,-77.0,1859.0,thousand barrels
-2025-05,R20,PADD 2 — Midwest,41.5,-93.0,1782.0,thousand barrels
-2025-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,9901.0,thousand barrels
-2025-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1052.0,thousand barrels
-2025-05,R50,PADD 5 — West Coast,37.0,-120.0,741.0,thousand barrels
-2025-06,R10,PADD 1 — East Coast,39.0,-77.0,1654.0,thousand barrels
-2025-06,R20,PADD 2 — Midwest,41.5,-93.0,1828.0,thousand barrels
-2025-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,10001.0,thousand barrels
-2025-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1044.0,thousand barrels
-2025-06,R50,PADD 5 — West Coast,37.0,-120.0,728.0,thousand barrels
-2025-07,R10,PADD 1 — East Coast,39.0,-77.0,1686.0,thousand barrels
-2025-07,R20,PADD 2 — Midwest,41.5,-93.0,1848.0,thousand barrels
-2025-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,10122.0,thousand barrels
-2025-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1036.0,thousand barrels
-2025-07,R50,PADD 5 — West Coast,37.0,-120.0,664.0,thousand barrels
-2025-08,R10,PADD 1 — East Coast,39.0,-77.0,1728.0,thousand barrels
-2025-08,R20,PADD 2 — Midwest,41.5,-93.0,1830.0,thousand barrels
-2025-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,10222.0,thousand barrels
-2025-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1038.0,thousand barrels
-2025-08,R50,PADD 5 — West Coast,37.0,-120.0,689.0,thousand barrels
-2025-09,R10,PADD 1 — East Coast,39.0,-77.0,1767.0,thousand barrels
-2025-09,R20,PADD 2 — Midwest,41.5,-93.0,1847.0,thousand barrels
-2025-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,10267.0,thousand barrels
-2025-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1025.0,thousand barrels
-2025-09,R50,PADD 5 — West Coast,37.0,-120.0,719.0,thousand barrels
-2025-10,R10,PADD 1 — East Coast,39.0,-77.0,1964.0,thousand barrels
-2025-10,R20,PADD 2 — Midwest,41.5,-93.0,1849.0,thousand barrels
-2025-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,10338.0,thousand barrels
-2025-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1021.0,thousand barrels
-2025-10,R50,PADD 5 — West Coast,37.0,-120.0,723.0,thousand barrels
-2025-11,R10,PADD 1 — East Coast,39.0,-77.0,1753.0,thousand barrels
-2025-11,R20,PADD 2 — Midwest,41.5,-93.0,1859.0,thousand barrels
-2025-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,10302.0,thousand barrels
-2025-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,997.0,thousand barrels
-2025-11,R50,PADD 5 — West Coast,37.0,-120.0,711.0,thousand barrels
-2025-12,R10,PADD 1 — East Coast,39.0,-77.0,1947.0,thousand barrels
-2025-12,R20,PADD 2 — Midwest,41.5,-93.0,1790.0,thousand barrels
-2025-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,10233.0,thousand barrels
-2025-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,999.0,thousand barrels
-2025-12,R50,PADD 5 — West Coast,37.0,-120.0,725.0,thousand barrels
-2026-01,R10,PADD 1 — East Coast,39.0,-77.0,1762.0,thousand barrels
-2026-01,R20,PADD 2 — Midwest,41.5,-93.0,1734.0,thousand barrels
-2026-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,9849.0,thousand barrels
-2026-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,978.0,thousand barrels
-2026-01,R50,PADD 5 — West Coast,37.0,-120.0,687.0,thousand barrels
-2026-02,R10,PADD 1 — East Coast,39.0,-77.0,1845.0,thousand barrels
-2026-02,R20,PADD 2 — Midwest,41.5,-93.0,1763.0,thousand barrels
-2026-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,10211.0,thousand barrels
-2026-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,997.0,thousand barrels
-2026-02,R50,PADD 5 — West Coast,37.0,-120.0,673.0,thousand barrels
-2026-03,R10,PADD 1 — East Coast,39.0,-77.0,2030.0,thousand barrels
-2026-03,R20,PADD 2 — Midwest,41.5,-93.0,1767.0,thousand barrels
-2026-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,10191.0,thousand barrels
-2026-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1018.0,thousand barrels
-2026-03,R50,PADD 5 — West Coast,37.0,-120.0,684.0,thousand barrels
-2026-04,R10,PADD 1 — East Coast,39.0,-77.0,1778.0,thousand barrels
-2026-04,R20,PADD 2 — Midwest,41.5,-93.0,1768.0,thousand barrels
-2026-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,10440.0,thousand barrels
-2026-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1018.0,thousand barrels
-2026-04,R50,PADD 5 — West Coast,37.0,-120.0,696.0,thousand barrels
-2026-05,R10,PADD 1 — East Coast,39.0,-77.0,1697.0,thousand barrels
-2026-05,R20,PADD 2 — Midwest,41.5,-93.0,1768.0,thousand barrels
-2026-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,10274.0,thousand barrels
-2026-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1012.0,thousand barrels
-2026-05,R50,PADD 5 — West Coast,37.0,-120.0,703.0,thousand barrels
-2026-06,R10,PADD 1 — East Coast,39.0,-77.0,1603.0,thousand barrels
-2026-06,R20,PADD 2 — Midwest,41.5,-93.0,1823.0,thousand barrels
-2026-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,10271.0,thousand barrels
-2026-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1017.0,thousand barrels
-2026-06,R50,PADD 5 — West Coast,37.0,-120.0,700.0,thousand barrels
-2026-07,R10,PADD 1 — East Coast,39.0,-77.0,1622.0,thousand barrels
-2026-07,R20,PADD 2 — Midwest,41.5,-93.0,1818.0,thousand barrels
-2026-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,10341.0,thousand barrels
-2026-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,1027.0,thousand barrels
-2026-07,R50,PADD 5 — West Coast,37.0,-120.0,707.0,thousand barrels
-2026-08,R10,PADD 1 — East Coast,39.0,-77.0,1561.0,thousand barrels
-2026-08,R20,PADD 2 — Midwest,41.5,-93.0,56353.0,thousand barrels
-2026-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,320263.0,thousand barrels
-2026-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,32620.0,thousand barrels
-2026-08,R50,PADD 5 — West Coast,37.0,-120.0,22108.0,thousand barrels
+2015-01,R10,PADD 1 — East Coast,39.0,-77.0,1536.5,thousand barrels
+2015-01,R20,PADD 2 — Midwest,41.5,-93.0,17851.2,thousand barrels
+2015-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,127310.7,thousand barrels
+2015-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,22267.6,thousand barrels
+2015-01,R50,PADD 5 — West Coast,37.0,-120.0,14154.3,thousand barrels
+2015-02,R10,PADD 1 — East Coast,39.0,-77.0,1563.4,thousand barrels
+2015-02,R20,PADD 2 — Midwest,41.5,-93.0,18536.9,thousand barrels
+2015-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,126892.2,thousand barrels
+2015-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,21581.5,thousand barrels
+2015-02,R50,PADD 5 — West Coast,37.0,-120.0,14050.0,thousand barrels
+2015-03,R10,PADD 1 — East Coast,39.0,-77.0,1573.9,thousand barrels
+2015-03,R20,PADD 2 — Midwest,41.5,-93.0,18542.7,thousand barrels
+2015-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,130139.6,thousand barrels
+2015-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,21783.9,thousand barrels
+2015-03,R50,PADD 5 — West Coast,37.0,-120.0,13849.2,thousand barrels
+2015-04,R10,PADD 1 — East Coast,39.0,-77.0,1602.6,thousand barrels
+2015-04,R20,PADD 2 — Midwest,41.5,-93.0,19203.1,thousand barrels
+2015-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,135554.8,thousand barrels
+2015-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,21962.8,thousand barrels
+2015-04,R50,PADD 5 — West Coast,37.0,-120.0,14074.3,thousand barrels
+2015-05,R10,PADD 1 — East Coast,39.0,-77.0,1580.4,thousand barrels
+2015-05,R20,PADD 2 — Midwest,41.5,-93.0,18997.6,thousand barrels
+2015-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,135651.7,thousand barrels
+2015-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,22210.3,thousand barrels
+2015-05,R50,PADD 5 — West Coast,37.0,-120.0,14516.1,thousand barrels
+2015-06,R10,PADD 1 — East Coast,39.0,-77.0,1593.0,thousand barrels
+2015-06,R20,PADD 2 — Midwest,41.5,-93.0,19080.8,thousand barrels
+2015-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,134535.1,thousand barrels
+2015-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,22554.8,thousand barrels
+2015-06,R50,PADD 5 — West Coast,37.0,-120.0,14252.7,thousand barrels
+2015-07,R10,PADD 1 — East Coast,39.0,-77.0,1608.9,thousand barrels
+2015-07,R20,PADD 2 — Midwest,41.5,-93.0,19464.2,thousand barrels
+2015-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,129813.0,thousand barrels
+2015-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,23319.8,thousand barrels
+2015-07,R50,PADD 5 — West Coast,37.0,-120.0,14379.2,thousand barrels
+2015-08,R10,PADD 1 — East Coast,39.0,-77.0,1572.6,thousand barrels
+2015-08,R20,PADD 2 — Midwest,41.5,-93.0,19799.8,thousand barrels
+2015-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,132574.3,thousand barrels
+2015-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,23606.1,thousand barrels
+2015-08,R50,PADD 5 — West Coast,37.0,-120.0,13888.9,thousand barrels
+2015-09,R10,PADD 1 — East Coast,39.0,-77.0,1593.8,thousand barrels
+2015-09,R20,PADD 2 — Midwest,41.5,-93.0,20314.9,thousand barrels
+2015-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,131645.8,thousand barrels
+2015-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,23711.4,thousand barrels
+2015-09,R50,PADD 5 — West Coast,37.0,-120.0,13534.8,thousand barrels
+2015-10,R10,PADD 1 — East Coast,39.0,-77.0,1560.4,thousand barrels
+2015-10,R20,PADD 2 — Midwest,41.5,-93.0,20198.1,thousand barrels
+2015-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,139961.4,thousand barrels
+2015-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,24350.6,thousand barrels
+2015-10,R50,PADD 5 — West Coast,37.0,-120.0,13429.6,thousand barrels
+2015-11,R10,PADD 1 — East Coast,39.0,-77.0,1553.3,thousand barrels
+2015-11,R20,PADD 2 — Midwest,41.5,-93.0,20313.2,thousand barrels
+2015-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,138451.5,thousand barrels
+2015-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,25540.3,thousand barrels
+2015-11,R50,PADD 5 — West Coast,37.0,-120.0,13788.1,thousand barrels
+2015-12,R10,PADD 1 — East Coast,39.0,-77.0,1560.7,thousand barrels
+2015-12,R20,PADD 2 — Midwest,41.5,-93.0,20901.6,thousand barrels
+2015-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,144834.8,thousand barrels
+2015-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,26109.8,thousand barrels
+2015-12,R50,PADD 5 — West Coast,37.0,-120.0,13628.5,thousand barrels
+2016-01,R10,PADD 1 — East Coast,39.0,-77.0,1544.1,thousand barrels
+2016-01,R20,PADD 2 — Midwest,41.5,-93.0,20690.4,thousand barrels
+2016-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,147582.0,thousand barrels
+2016-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,26322.0,thousand barrels
+2016-01,R50,PADD 5 — West Coast,37.0,-120.0,13460.6,thousand barrels
+2016-02,R10,PADD 1 — East Coast,39.0,-77.0,1552.9,thousand barrels
+2016-02,R20,PADD 2 — Midwest,41.5,-93.0,21010.1,thousand barrels
+2016-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,145137.2,thousand barrels
+2016-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,26655.0,thousand barrels
+2016-02,R50,PADD 5 — West Coast,37.0,-120.0,13524.2,thousand barrels
+2016-03,R10,PADD 1 — East Coast,39.0,-77.0,1561.1,thousand barrels
+2016-03,R20,PADD 2 — Midwest,41.5,-93.0,21002.0,thousand barrels
+2016-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,146391.6,thousand barrels
+2016-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,26898.1,thousand barrels
+2016-03,R50,PADD 5 — West Coast,37.0,-120.0,13588.3,thousand barrels
+2016-04,R10,PADD 1 — East Coast,39.0,-77.0,1541.8,thousand barrels
+2016-04,R20,PADD 2 — Midwest,41.5,-93.0,21172.5,thousand barrels
+2016-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,149235.7,thousand barrels
+2016-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,27015.6,thousand barrels
+2016-04,R50,PADD 5 — West Coast,37.0,-120.0,13429.3,thousand barrels
+2016-05,R10,PADD 1 — East Coast,39.0,-77.0,1565.5,thousand barrels
+2016-05,R20,PADD 2 — Midwest,41.5,-93.0,21293.0,thousand barrels
+2016-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,149160.3,thousand barrels
+2016-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28293.6,thousand barrels
+2016-05,R50,PADD 5 — West Coast,37.0,-120.0,14016.5,thousand barrels
+2016-06,R10,PADD 1 — East Coast,39.0,-77.0,1547.8,thousand barrels
+2016-06,R20,PADD 2 — Midwest,41.5,-93.0,21042.5,thousand barrels
+2016-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,152256.8,thousand barrels
+2016-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,27982.9,thousand barrels
+2016-06,R50,PADD 5 — West Coast,37.0,-120.0,13998.1,thousand barrels
+2016-07,R10,PADD 1 — East Coast,39.0,-77.0,1624.8,thousand barrels
+2016-07,R20,PADD 2 — Midwest,41.5,-93.0,21016.9,thousand barrels
+2016-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,155350.6,thousand barrels
+2016-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28741.1,thousand barrels
+2016-07,R50,PADD 5 — West Coast,37.0,-120.0,14085.9,thousand barrels
+2016-08,R10,PADD 1 — East Coast,39.0,-77.0,1627.8,thousand barrels
+2016-08,R20,PADD 2 — Midwest,41.5,-93.0,21161.9,thousand barrels
+2016-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,157824.8,thousand barrels
+2016-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28783.8,thousand barrels
+2016-08,R50,PADD 5 — West Coast,37.0,-120.0,14029.1,thousand barrels
+2016-09,R10,PADD 1 — East Coast,39.0,-77.0,1596.1,thousand barrels
+2016-09,R20,PADD 2 — Midwest,41.5,-93.0,21203.1,thousand barrels
+2016-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,158404.1,thousand barrels
+2016-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28046.7,thousand barrels
+2016-09,R50,PADD 5 — West Coast,37.0,-120.0,14208.7,thousand barrels
+2016-10,R10,PADD 1 — East Coast,39.0,-77.0,1571.1,thousand barrels
+2016-10,R20,PADD 2 — Midwest,41.5,-93.0,21954.8,thousand barrels
+2016-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,155315.4,thousand barrels
+2016-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28053.2,thousand barrels
+2016-10,R50,PADD 5 — West Coast,37.0,-120.0,14616.4,thousand barrels
+2016-11,R10,PADD 1 — East Coast,39.0,-77.0,1613.4,thousand barrels
+2016-11,R20,PADD 2 — Midwest,41.5,-93.0,22486.1,thousand barrels
+2016-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,155698.1,thousand barrels
+2016-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,27858.7,thousand barrels
+2016-11,R50,PADD 5 — West Coast,37.0,-120.0,15161.2,thousand barrels
+2016-12,R10,PADD 1 — East Coast,39.0,-77.0,1606.7,thousand barrels
+2016-12,R20,PADD 2 — Midwest,41.5,-93.0,22706.5,thousand barrels
+2016-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,156869.2,thousand barrels
+2016-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28291.9,thousand barrels
+2016-12,R50,PADD 5 — West Coast,37.0,-120.0,14990.7,thousand barrels
+2017-01,R10,PADD 1 — East Coast,39.0,-77.0,1569.3,thousand barrels
+2017-01,R20,PADD 2 — Midwest,41.5,-93.0,22450.7,thousand barrels
+2017-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,151610.8,thousand barrels
+2017-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28456.7,thousand barrels
+2017-01,R50,PADD 5 — West Coast,37.0,-120.0,15380.7,thousand barrels
+2017-02,R10,PADD 1 — East Coast,39.0,-77.0,1602.4,thousand barrels
+2017-02,R20,PADD 2 — Midwest,41.5,-93.0,22170.5,thousand barrels
+2017-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,152730.4,thousand barrels
+2017-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,27988.9,thousand barrels
+2017-02,R50,PADD 5 — West Coast,37.0,-120.0,15611.4,thousand barrels
+2017-03,R10,PADD 1 — East Coast,39.0,-77.0,1595.5,thousand barrels
+2017-03,R20,PADD 2 — Midwest,41.5,-93.0,23134.4,thousand barrels
+2017-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,153045.6,thousand barrels
+2017-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,28924.3,thousand barrels
+2017-03,R50,PADD 5 — West Coast,37.0,-120.0,15978.1,thousand barrels
+2017-04,R10,PADD 1 — East Coast,39.0,-77.0,1622.7,thousand barrels
+2017-04,R20,PADD 2 — Midwest,41.5,-93.0,22759.7,thousand barrels
+2017-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,149688.9,thousand barrels
+2017-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,29670.6,thousand barrels
+2017-04,R50,PADD 5 — West Coast,37.0,-120.0,16012.6,thousand barrels
+2017-05,R10,PADD 1 — East Coast,39.0,-77.0,1659.5,thousand barrels
+2017-05,R20,PADD 2 — Midwest,41.5,-93.0,22902.6,thousand barrels
+2017-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,149290.7,thousand barrels
+2017-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30730.5,thousand barrels
+2017-05,R50,PADD 5 — West Coast,37.0,-120.0,16016.8,thousand barrels
+2017-06,R10,PADD 1 — East Coast,39.0,-77.0,1675.3,thousand barrels
+2017-06,R20,PADD 2 — Midwest,41.5,-93.0,23159.5,thousand barrels
+2017-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,148956.8,thousand barrels
+2017-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30999.0,thousand barrels
+2017-06,R50,PADD 5 — West Coast,37.0,-120.0,16380.6,thousand barrels
+2017-07,R10,PADD 1 — East Coast,39.0,-77.0,1762.3,thousand barrels
+2017-07,R20,PADD 2 — Midwest,41.5,-93.0,23107.9,thousand barrels
+2017-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,155302.6,thousand barrels
+2017-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31100.9,thousand barrels
+2017-07,R50,PADD 5 — West Coast,37.0,-120.0,16758.9,thousand barrels
+2017-08,R10,PADD 1 — East Coast,39.0,-77.0,1708.5,thousand barrels
+2017-08,R20,PADD 2 — Midwest,41.5,-93.0,22737.2,thousand barrels
+2017-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,156607.5,thousand barrels
+2017-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31662.9,thousand barrels
+2017-08,R50,PADD 5 — West Coast,37.0,-120.0,17350.7,thousand barrels
+2017-09,R10,PADD 1 — East Coast,39.0,-77.0,1687.4,thousand barrels
+2017-09,R20,PADD 2 — Midwest,41.5,-93.0,22471.2,thousand barrels
+2017-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,160479.0,thousand barrels
+2017-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31423.9,thousand barrels
+2017-09,R50,PADD 5 — West Coast,37.0,-120.0,17489.0,thousand barrels
+2017-10,R10,PADD 1 — East Coast,39.0,-77.0,1685.5,thousand barrels
+2017-10,R20,PADD 2 — Midwest,41.5,-93.0,22315.5,thousand barrels
+2017-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,160742.8,thousand barrels
+2017-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31631.3,thousand barrels
+2017-10,R50,PADD 5 — West Coast,37.0,-120.0,17521.6,thousand barrels
+2017-11,R10,PADD 1 — East Coast,39.0,-77.0,1768.5,thousand barrels
+2017-11,R20,PADD 2 — Midwest,41.5,-93.0,22088.1,thousand barrels
+2017-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,155361.4,thousand barrels
+2017-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31646.7,thousand barrels
+2017-11,R50,PADD 5 — West Coast,37.0,-120.0,16729.6,thousand barrels
+2017-12,R10,PADD 1 — East Coast,39.0,-77.0,1839.2,thousand barrels
+2017-12,R20,PADD 2 — Midwest,41.5,-93.0,22763.0,thousand barrels
+2017-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,158072.0,thousand barrels
+2017-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30848.5,thousand barrels
+2017-12,R50,PADD 5 — West Coast,37.0,-120.0,16257.4,thousand barrels
+2018-01,R10,PADD 1 — East Coast,39.0,-77.0,1893.9,thousand barrels
+2018-01,R20,PADD 2 — Midwest,41.5,-93.0,22849.9,thousand barrels
+2018-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,156623.4,thousand barrels
+2018-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31050.6,thousand barrels
+2018-01,R50,PADD 5 — West Coast,37.0,-120.0,16194.3,thousand barrels
+2018-02,R10,PADD 1 — East Coast,39.0,-77.0,1871.4,thousand barrels
+2018-02,R20,PADD 2 — Midwest,41.5,-93.0,22701.9,thousand barrels
+2018-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,156198.7,thousand barrels
+2018-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30900.9,thousand barrels
+2018-02,R50,PADD 5 — West Coast,37.0,-120.0,15902.4,thousand barrels
+2018-03,R10,PADD 1 — East Coast,39.0,-77.0,1853.5,thousand barrels
+2018-03,R20,PADD 2 — Midwest,41.5,-93.0,22841.3,thousand barrels
+2018-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,153534.0,thousand barrels
+2018-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30874.6,thousand barrels
+2018-03,R50,PADD 5 — West Coast,37.0,-120.0,16225.0,thousand barrels
+2018-04,R10,PADD 1 — East Coast,39.0,-77.0,1830.2,thousand barrels
+2018-04,R20,PADD 2 — Midwest,41.5,-93.0,23237.8,thousand barrels
+2018-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,154371.6,thousand barrels
+2018-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31222.8,thousand barrels
+2018-04,R50,PADD 5 — West Coast,37.0,-120.0,15864.8,thousand barrels
+2018-05,R10,PADD 1 — East Coast,39.0,-77.0,1808.9,thousand barrels
+2018-05,R20,PADD 2 — Midwest,41.5,-93.0,23170.6,thousand barrels
+2018-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,158277.7,thousand barrels
+2018-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,32142.3,thousand barrels
+2018-05,R50,PADD 5 — West Coast,37.0,-120.0,15769.2,thousand barrels
+2018-06,R10,PADD 1 — East Coast,39.0,-77.0,1870.1,thousand barrels
+2018-06,R20,PADD 2 — Midwest,41.5,-93.0,23681.2,thousand barrels
+2018-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,161863.5,thousand barrels
+2018-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31725.2,thousand barrels
+2018-06,R50,PADD 5 — West Coast,37.0,-120.0,15686.5,thousand barrels
+2018-07,R10,PADD 1 — East Coast,39.0,-77.0,1868.5,thousand barrels
+2018-07,R20,PADD 2 — Midwest,41.5,-93.0,23173.9,thousand barrels
+2018-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,167645.9,thousand barrels
+2018-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31638.6,thousand barrels
+2018-07,R50,PADD 5 — West Coast,37.0,-120.0,16127.3,thousand barrels
+2018-08,R10,PADD 1 — East Coast,39.0,-77.0,1871.8,thousand barrels
+2018-08,R20,PADD 2 — Midwest,41.5,-93.0,23809.5,thousand barrels
+2018-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,174110.2,thousand barrels
+2018-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31281.0,thousand barrels
+2018-08,R50,PADD 5 — West Coast,37.0,-120.0,15995.6,thousand barrels
+2018-09,R10,PADD 1 — East Coast,39.0,-77.0,1908.3,thousand barrels
+2018-09,R20,PADD 2 — Midwest,41.5,-93.0,23900.5,thousand barrels
+2018-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,167682.4,thousand barrels
+2018-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30886.8,thousand barrels
+2018-09,R50,PADD 5 — West Coast,37.0,-120.0,16204.3,thousand barrels
+2018-10,R10,PADD 1 — East Coast,39.0,-77.0,1852.4,thousand barrels
+2018-10,R20,PADD 2 — Midwest,41.5,-93.0,23973.1,thousand barrels
+2018-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,164350.2,thousand barrels
+2018-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30643.0,thousand barrels
+2018-10,R50,PADD 5 — West Coast,37.0,-120.0,16332.5,thousand barrels
+2018-11,R10,PADD 1 — East Coast,39.0,-77.0,1861.8,thousand barrels
+2018-11,R20,PADD 2 — Midwest,41.5,-93.0,23736.7,thousand barrels
+2018-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,159064.1,thousand barrels
+2018-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30645.2,thousand barrels
+2018-11,R50,PADD 5 — West Coast,37.0,-120.0,16692.9,thousand barrels
+2018-12,R10,PADD 1 — East Coast,39.0,-77.0,1828.4,thousand barrels
+2018-12,R20,PADD 2 — Midwest,41.5,-93.0,23248.8,thousand barrels
+2018-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,161710.7,thousand barrels
+2018-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31126.9,thousand barrels
+2018-12,R50,PADD 5 — West Coast,37.0,-120.0,17043.6,thousand barrels
+2019-01,R10,PADD 1 — East Coast,39.0,-77.0,1824.9,thousand barrels
+2019-01,R20,PADD 2 — Midwest,41.5,-93.0,22566.8,thousand barrels
+2019-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,160115.9,thousand barrels
+2019-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31450.9,thousand barrels
+2019-01,R50,PADD 5 — West Coast,37.0,-120.0,17100.3,thousand barrels
+2019-02,R10,PADD 1 — East Coast,39.0,-77.0,1810.8,thousand barrels
+2019-02,R20,PADD 2 — Midwest,41.5,-93.0,22312.8,thousand barrels
+2019-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,159189.9,thousand barrels
+2019-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,30911.9,thousand barrels
+2019-02,R50,PADD 5 — West Coast,37.0,-120.0,16588.6,thousand barrels
+2019-03,R10,PADD 1 — East Coast,39.0,-77.0,1795.0,thousand barrels
+2019-03,R20,PADD 2 — Midwest,41.5,-93.0,22664.3,thousand barrels
+2019-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,159137.0,thousand barrels
+2019-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,31835.6,thousand barrels
+2019-03,R50,PADD 5 — West Coast,37.0,-120.0,16578.1,thousand barrels
+2019-04,R10,PADD 1 — East Coast,39.0,-77.0,1810.2,thousand barrels
+2019-04,R20,PADD 2 — Midwest,41.5,-93.0,22319.2,thousand barrels
+2019-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,160991.2,thousand barrels
+2019-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,32564.3,thousand barrels
+2019-04,R50,PADD 5 — West Coast,37.0,-120.0,16637.8,thousand barrels
+2019-05,R10,PADD 1 — East Coast,39.0,-77.0,1825.5,thousand barrels
+2019-05,R20,PADD 2 — Midwest,41.5,-93.0,21717.3,thousand barrels
+2019-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,156852.7,thousand barrels
+2019-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,32107.6,thousand barrels
+2019-05,R50,PADD 5 — West Coast,37.0,-120.0,16799.5,thousand barrels
+2019-06,R10,PADD 1 — East Coast,39.0,-77.0,1824.8,thousand barrels
+2019-06,R20,PADD 2 — Midwest,41.5,-93.0,21409.3,thousand barrels
+2019-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,153531.0,thousand barrels
+2019-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33022.1,thousand barrels
+2019-06,R50,PADD 5 — West Coast,37.0,-120.0,16618.9,thousand barrels
+2019-07,R10,PADD 1 — East Coast,39.0,-77.0,1845.6,thousand barrels
+2019-07,R20,PADD 2 — Midwest,41.5,-93.0,21330.2,thousand barrels
+2019-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,154149.1,thousand barrels
+2019-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33370.1,thousand barrels
+2019-07,R50,PADD 5 — West Coast,37.0,-120.0,17064.5,thousand barrels
+2019-08,R10,PADD 1 — East Coast,39.0,-77.0,1820.9,thousand barrels
+2019-08,R20,PADD 2 — Midwest,41.5,-93.0,21268.1,thousand barrels
+2019-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,158461.4,thousand barrels
+2019-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33399.2,thousand barrels
+2019-08,R50,PADD 5 — West Coast,37.0,-120.0,17137.5,thousand barrels
+2019-09,R10,PADD 1 — East Coast,39.0,-77.0,1853.0,thousand barrels
+2019-09,R20,PADD 2 — Midwest,41.5,-93.0,21298.4,thousand barrels
+2019-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,159014.8,thousand barrels
+2019-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33772.0,thousand barrels
+2019-09,R50,PADD 5 — West Coast,37.0,-120.0,16890.5,thousand barrels
+2019-10,R10,PADD 1 — East Coast,39.0,-77.0,1852.8,thousand barrels
+2019-10,R20,PADD 2 — Midwest,41.5,-93.0,21823.4,thousand barrels
+2019-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,157133.1,thousand barrels
+2019-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33889.6,thousand barrels
+2019-10,R50,PADD 5 — West Coast,37.0,-120.0,16803.3,thousand barrels
+2019-11,R10,PADD 1 — East Coast,39.0,-77.0,1842.3,thousand barrels
+2019-11,R20,PADD 2 — Midwest,41.5,-93.0,22456.0,thousand barrels
+2019-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,151010.5,thousand barrels
+2019-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34394.7,thousand barrels
+2019-11,R50,PADD 5 — West Coast,37.0,-120.0,17518.6,thousand barrels
+2019-12,R10,PADD 1 — East Coast,39.0,-77.0,1820.4,thousand barrels
+2019-12,R20,PADD 2 — Midwest,41.5,-93.0,23446.5,thousand barrels
+2019-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,154491.9,thousand barrels
+2019-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34661.1,thousand barrels
+2019-12,R50,PADD 5 — West Coast,37.0,-120.0,17821.5,thousand barrels
+2020-01,R10,PADD 1 — East Coast,39.0,-77.0,1818.9,thousand barrels
+2020-01,R20,PADD 2 — Midwest,41.5,-93.0,22778.3,thousand barrels
+2020-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,152835.9,thousand barrels
+2020-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34565.8,thousand barrels
+2020-01,R50,PADD 5 — West Coast,37.0,-120.0,18266.4,thousand barrels
+2020-02,R10,PADD 1 — East Coast,39.0,-77.0,1894.2,thousand barrels
+2020-02,R20,PADD 2 — Midwest,41.5,-93.0,22479.5,thousand barrels
+2020-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,149939.9,thousand barrels
+2020-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33303.6,thousand barrels
+2020-02,R50,PADD 5 — West Coast,37.0,-120.0,17959.0,thousand barrels
+2020-03,R10,PADD 1 — East Coast,39.0,-77.0,1899.4,thousand barrels
+2020-03,R20,PADD 2 — Midwest,41.5,-93.0,22883.5,thousand barrels
+2020-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,145395.7,thousand barrels
+2020-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33788.0,thousand barrels
+2020-03,R50,PADD 5 — West Coast,37.0,-120.0,17783.4,thousand barrels
+2020-04,R10,PADD 1 — East Coast,39.0,-77.0,1863.5,thousand barrels
+2020-04,R20,PADD 2 — Midwest,41.5,-93.0,22767.2,thousand barrels
+2020-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,141792.5,thousand barrels
+2020-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33670.6,thousand barrels
+2020-04,R50,PADD 5 — West Coast,37.0,-120.0,17612.2,thousand barrels
+2020-05,R10,PADD 1 — East Coast,39.0,-77.0,1905.2,thousand barrels
+2020-05,R20,PADD 2 — Midwest,41.5,-93.0,23250.2,thousand barrels
+2020-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,139633.8,thousand barrels
+2020-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34329.2,thousand barrels
+2020-05,R50,PADD 5 — West Coast,37.0,-120.0,17747.6,thousand barrels
+2020-06,R10,PADD 1 — East Coast,39.0,-77.0,1894.8,thousand barrels
+2020-06,R20,PADD 2 — Midwest,41.5,-93.0,23439.5,thousand barrels
+2020-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,139525.3,thousand barrels
+2020-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34797.2,thousand barrels
+2020-06,R50,PADD 5 — West Coast,37.0,-120.0,17756.8,thousand barrels
+2020-07,R10,PADD 1 — East Coast,39.0,-77.0,1913.2,thousand barrels
+2020-07,R20,PADD 2 — Midwest,41.5,-93.0,24273.6,thousand barrels
+2020-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,136710.4,thousand barrels
+2020-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34694.4,thousand barrels
+2020-07,R50,PADD 5 — West Coast,37.0,-120.0,17654.0,thousand barrels
+2020-08,R10,PADD 1 — East Coast,39.0,-77.0,1897.6,thousand barrels
+2020-08,R20,PADD 2 — Midwest,41.5,-93.0,24876.9,thousand barrels
+2020-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,137765.1,thousand barrels
+2020-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,35543.0,thousand barrels
+2020-08,R50,PADD 5 — West Coast,37.0,-120.0,17596.1,thousand barrels
+2020-09,R10,PADD 1 — East Coast,39.0,-77.0,1953.8,thousand barrels
+2020-09,R20,PADD 2 — Midwest,41.5,-93.0,25504.3,thousand barrels
+2020-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,137637.1,thousand barrels
+2020-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,35830.8,thousand barrels
+2020-09,R50,PADD 5 — West Coast,37.0,-120.0,17387.0,thousand barrels
+2020-10,R10,PADD 1 — East Coast,39.0,-77.0,1938.6,thousand barrels
+2020-10,R20,PADD 2 — Midwest,41.5,-93.0,25396.2,thousand barrels
+2020-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,144304.2,thousand barrels
+2020-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36091.4,thousand barrels
+2020-10,R50,PADD 5 — West Coast,37.0,-120.0,17394.0,thousand barrels
+2020-11,R10,PADD 1 — East Coast,39.0,-77.0,2000.5,thousand barrels
+2020-11,R20,PADD 2 — Midwest,41.5,-93.0,25448.3,thousand barrels
+2020-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,139962.2,thousand barrels
+2020-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36136.1,thousand barrels
+2020-11,R50,PADD 5 — West Coast,37.0,-120.0,17850.9,thousand barrels
+2020-12,R10,PADD 1 — East Coast,39.0,-77.0,1966.5,thousand barrels
+2020-12,R20,PADD 2 — Midwest,41.5,-93.0,25394.7,thousand barrels
+2020-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,140974.1,thousand barrels
+2020-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37497.4,thousand barrels
+2020-12,R50,PADD 5 — West Coast,37.0,-120.0,17382.1,thousand barrels
+2021-01,R10,PADD 1 — East Coast,39.0,-77.0,1962.9,thousand barrels
+2021-01,R20,PADD 2 — Midwest,41.5,-93.0,24731.5,thousand barrels
+2021-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,142028.6,thousand barrels
+2021-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37112.5,thousand barrels
+2021-01,R50,PADD 5 — West Coast,37.0,-120.0,17572.0,thousand barrels
+2021-02,R10,PADD 1 — East Coast,39.0,-77.0,2025.7,thousand barrels
+2021-02,R20,PADD 2 — Midwest,41.5,-93.0,25558.4,thousand barrels
+2021-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,139669.4,thousand barrels
+2021-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37021.4,thousand barrels
+2021-02,R50,PADD 5 — West Coast,37.0,-120.0,18127.3,thousand barrels
+2021-03,R10,PADD 1 — East Coast,39.0,-77.0,2040.6,thousand barrels
+2021-03,R20,PADD 2 — Midwest,41.5,-93.0,26041.6,thousand barrels
+2021-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,140494.1,thousand barrels
+2021-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36253.3,thousand barrels
+2021-03,R50,PADD 5 — West Coast,37.0,-120.0,18133.4,thousand barrels
+2021-04,R10,PADD 1 — East Coast,39.0,-77.0,2141.5,thousand barrels
+2021-04,R20,PADD 2 — Midwest,41.5,-93.0,25966.1,thousand barrels
+2021-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,143218.6,thousand barrels
+2021-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36925.3,thousand barrels
+2021-04,R50,PADD 5 — West Coast,37.0,-120.0,18014.2,thousand barrels
+2021-05,R10,PADD 1 — East Coast,39.0,-77.0,2138.5,thousand barrels
+2021-05,R20,PADD 2 — Midwest,41.5,-93.0,26747.5,thousand barrels
+2021-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,144067.8,thousand barrels
+2021-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36643.1,thousand barrels
+2021-05,R50,PADD 5 — West Coast,37.0,-120.0,18419.2,thousand barrels
+2021-06,R10,PADD 1 — East Coast,39.0,-77.0,2158.1,thousand barrels
+2021-06,R20,PADD 2 — Midwest,41.5,-93.0,26517.3,thousand barrels
+2021-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,148633.2,thousand barrels
+2021-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36445.2,thousand barrels
+2021-06,R50,PADD 5 — West Coast,37.0,-120.0,18130.3,thousand barrels
+2021-07,R10,PADD 1 — East Coast,39.0,-77.0,2248.9,thousand barrels
+2021-07,R20,PADD 2 — Midwest,41.5,-93.0,25648.5,thousand barrels
+2021-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,142754.2,thousand barrels
+2021-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36214.1,thousand barrels
+2021-07,R50,PADD 5 — West Coast,37.0,-120.0,18194.6,thousand barrels
+2021-08,R10,PADD 1 — East Coast,39.0,-77.0,2189.8,thousand barrels
+2021-08,R20,PADD 2 — Midwest,41.5,-93.0,26267.8,thousand barrels
+2021-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,140920.6,thousand barrels
+2021-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36404.4,thousand barrels
+2021-08,R50,PADD 5 — West Coast,37.0,-120.0,17889.0,thousand barrels
+2021-09,R10,PADD 1 — East Coast,39.0,-77.0,2126.9,thousand barrels
+2021-09,R20,PADD 2 — Midwest,41.5,-93.0,25701.2,thousand barrels
+2021-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,145641.6,thousand barrels
+2021-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,35639.4,thousand barrels
+2021-09,R50,PADD 5 — West Coast,37.0,-120.0,17291.5,thousand barrels
+2021-10,R10,PADD 1 — East Coast,39.0,-77.0,2101.5,thousand barrels
+2021-10,R20,PADD 2 — Midwest,41.5,-93.0,25703.4,thousand barrels
+2021-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,148880.7,thousand barrels
+2021-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34183.0,thousand barrels
+2021-10,R50,PADD 5 — West Coast,37.0,-120.0,17308.1,thousand barrels
+2021-11,R10,PADD 1 — East Coast,39.0,-77.0,2144.1,thousand barrels
+2021-11,R20,PADD 2 — Midwest,41.5,-93.0,25912.1,thousand barrels
+2021-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,151085.7,thousand barrels
+2021-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34632.6,thousand barrels
+2021-11,R50,PADD 5 — West Coast,37.0,-120.0,16940.0,thousand barrels
+2021-12,R10,PADD 1 — East Coast,39.0,-77.0,2083.7,thousand barrels
+2021-12,R20,PADD 2 — Midwest,41.5,-93.0,26215.6,thousand barrels
+2021-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,155416.5,thousand barrels
+2021-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,33307.2,thousand barrels
+2021-12,R50,PADD 5 — West Coast,37.0,-120.0,17003.8,thousand barrels
+2022-01,R10,PADD 1 — East Coast,39.0,-77.0,2116.9,thousand barrels
+2022-01,R20,PADD 2 — Midwest,41.5,-93.0,26765.2,thousand barrels
+2022-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,150080.8,thousand barrels
+2022-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,34009.4,thousand barrels
+2022-01,R50,PADD 5 — West Coast,37.0,-120.0,17451.0,thousand barrels
+2022-02,R10,PADD 1 — East Coast,39.0,-77.0,2147.6,thousand barrels
+2022-02,R20,PADD 2 — Midwest,41.5,-93.0,27183.2,thousand barrels
+2022-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,153069.3,thousand barrels
+2022-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,35205.5,thousand barrels
+2022-02,R50,PADD 5 — West Coast,37.0,-120.0,18168.0,thousand barrels
+2022-03,R10,PADD 1 — East Coast,39.0,-77.0,2242.8,thousand barrels
+2022-03,R20,PADD 2 — Midwest,41.5,-93.0,27590.9,thousand barrels
+2022-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,156940.0,thousand barrels
+2022-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,35230.7,thousand barrels
+2022-03,R50,PADD 5 — West Coast,37.0,-120.0,18274.6,thousand barrels
+2022-04,R10,PADD 1 — East Coast,39.0,-77.0,2298.6,thousand barrels
+2022-04,R20,PADD 2 — Midwest,41.5,-93.0,27264.9,thousand barrels
+2022-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,155500.2,thousand barrels
+2022-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36287.3,thousand barrels
+2022-04,R50,PADD 5 — West Coast,37.0,-120.0,18720.2,thousand barrels
+2022-05,R10,PADD 1 — East Coast,39.0,-77.0,2324.6,thousand barrels
+2022-05,R20,PADD 2 — Midwest,41.5,-93.0,27534.4,thousand barrels
+2022-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,164299.2,thousand barrels
+2022-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,36414.8,thousand barrels
+2022-05,R50,PADD 5 — West Coast,37.0,-120.0,18944.5,thousand barrels
+2022-06,R10,PADD 1 — East Coast,39.0,-77.0,2397.0,thousand barrels
+2022-06,R20,PADD 2 — Midwest,41.5,-93.0,26815.5,thousand barrels
+2022-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,165601.6,thousand barrels
+2022-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37725.2,thousand barrels
+2022-06,R50,PADD 5 — West Coast,37.0,-120.0,18875.1,thousand barrels
+2022-07,R10,PADD 1 — East Coast,39.0,-77.0,2432.5,thousand barrels
+2022-07,R20,PADD 2 — Midwest,41.5,-93.0,27760.5,thousand barrels
+2022-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,159001.4,thousand barrels
+2022-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37531.9,thousand barrels
+2022-07,R50,PADD 5 — West Coast,37.0,-120.0,18224.0,thousand barrels
+2022-08,R10,PADD 1 — East Coast,39.0,-77.0,2419.8,thousand barrels
+2022-08,R20,PADD 2 — Midwest,41.5,-93.0,27092.9,thousand barrels
+2022-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,160849.9,thousand barrels
+2022-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,35906.9,thousand barrels
+2022-08,R50,PADD 5 — West Coast,37.0,-120.0,18889.7,thousand barrels
+2022-09,R10,PADD 1 — East Coast,39.0,-77.0,2374.1,thousand barrels
+2022-09,R20,PADD 2 — Midwest,41.5,-93.0,27013.5,thousand barrels
+2022-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,159177.5,thousand barrels
+2022-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,35993.1,thousand barrels
+2022-09,R50,PADD 5 — West Coast,37.0,-120.0,18568.9,thousand barrels
+2022-10,R10,PADD 1 — East Coast,39.0,-77.0,2356.6,thousand barrels
+2022-10,R20,PADD 2 — Midwest,41.5,-93.0,26409.0,thousand barrels
+2022-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,163523.1,thousand barrels
+2022-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37366.6,thousand barrels
+2022-10,R50,PADD 5 — West Coast,37.0,-120.0,19156.7,thousand barrels
+2022-11,R10,PADD 1 — East Coast,39.0,-77.0,2364.1,thousand barrels
+2022-11,R20,PADD 2 — Midwest,41.5,-93.0,26129.0,thousand barrels
+2022-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,165969.2,thousand barrels
+2022-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37915.8,thousand barrels
+2022-11,R50,PADD 5 — West Coast,37.0,-120.0,19439.0,thousand barrels
+2022-12,R10,PADD 1 — East Coast,39.0,-77.0,2381.8,thousand barrels
+2022-12,R20,PADD 2 — Midwest,41.5,-93.0,26240.5,thousand barrels
+2022-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,164648.3,thousand barrels
+2022-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,37676.7,thousand barrels
+2022-12,R50,PADD 5 — West Coast,37.0,-120.0,19137.3,thousand barrels
+2023-01,R10,PADD 1 — East Coast,39.0,-77.0,2289.6,thousand barrels
+2023-01,R20,PADD 2 — Midwest,41.5,-93.0,26068.0,thousand barrels
+2023-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,170254.4,thousand barrels
+2023-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,38075.3,thousand barrels
+2023-01,R50,PADD 5 — West Coast,37.0,-120.0,19333.3,thousand barrels
+2023-02,R10,PADD 1 — East Coast,39.0,-77.0,2288.7,thousand barrels
+2023-02,R20,PADD 2 — Midwest,41.5,-93.0,26768.8,thousand barrels
+2023-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,174134.4,thousand barrels
+2023-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,38967.1,thousand barrels
+2023-02,R50,PADD 5 — West Coast,37.0,-120.0,20235.4,thousand barrels
+2023-03,R10,PADD 1 — East Coast,39.0,-77.0,2299.2,thousand barrels
+2023-03,R20,PADD 2 — Midwest,41.5,-93.0,26997.4,thousand barrels
+2023-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,171947.5,thousand barrels
+2023-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,39056.2,thousand barrels
+2023-03,R50,PADD 5 — West Coast,37.0,-120.0,20937.8,thousand barrels
+2023-04,R10,PADD 1 — East Coast,39.0,-77.0,2333.6,thousand barrels
+2023-04,R20,PADD 2 — Midwest,41.5,-93.0,26855.4,thousand barrels
+2023-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,172112.4,thousand barrels
+2023-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,41264.0,thousand barrels
+2023-04,R50,PADD 5 — West Coast,37.0,-120.0,20806.8,thousand barrels
+2023-05,R10,PADD 1 — East Coast,39.0,-77.0,2418.8,thousand barrels
+2023-05,R20,PADD 2 — Midwest,41.5,-93.0,26891.1,thousand barrels
+2023-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,174580.2,thousand barrels
+2023-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,41002.0,thousand barrels
+2023-05,R50,PADD 5 — West Coast,37.0,-120.0,20593.8,thousand barrels
+2023-06,R10,PADD 1 — East Coast,39.0,-77.0,2437.5,thousand barrels
+2023-06,R20,PADD 2 — Midwest,41.5,-93.0,27654.7,thousand barrels
+2023-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,174006.7,thousand barrels
+2023-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,41988.1,thousand barrels
+2023-06,R50,PADD 5 — West Coast,37.0,-120.0,20717.4,thousand barrels
+2023-07,R10,PADD 1 — East Coast,39.0,-77.0,2402.9,thousand barrels
+2023-07,R20,PADD 2 — Midwest,41.5,-93.0,28268.0,thousand barrels
+2023-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,173539.0,thousand barrels
+2023-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,42795.9,thousand barrels
+2023-07,R50,PADD 5 — West Coast,37.0,-120.0,20731.7,thousand barrels
+2023-08,R10,PADD 1 — East Coast,39.0,-77.0,2325.1,thousand barrels
+2023-08,R20,PADD 2 — Midwest,41.5,-93.0,27737.2,thousand barrels
+2023-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,174360.6,thousand barrels
+2023-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,42368.1,thousand barrels
+2023-08,R50,PADD 5 — West Coast,37.0,-120.0,21312.1,thousand barrels
+2023-09,R10,PADD 1 — East Coast,39.0,-77.0,2366.4,thousand barrels
+2023-09,R20,PADD 2 — Midwest,41.5,-93.0,27470.6,thousand barrels
+2023-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,171341.4,thousand barrels
+2023-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,42177.9,thousand barrels
+2023-09,R50,PADD 5 — West Coast,37.0,-120.0,21712.6,thousand barrels
+2023-10,R10,PADD 1 — East Coast,39.0,-77.0,2334.7,thousand barrels
+2023-10,R20,PADD 2 — Midwest,41.5,-93.0,27841.3,thousand barrels
+2023-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,164375.4,thousand barrels
+2023-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43205.5,thousand barrels
+2023-10,R50,PADD 5 — West Coast,37.0,-120.0,21064.6,thousand barrels
+2023-11,R10,PADD 1 — East Coast,39.0,-77.0,2384.5,thousand barrels
+2023-11,R20,PADD 2 — Midwest,41.5,-93.0,28149.4,thousand barrels
+2023-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,165819.1,thousand barrels
+2023-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43503.4,thousand barrels
+2023-11,R50,PADD 5 — West Coast,37.0,-120.0,21342.1,thousand barrels
+2023-12,R10,PADD 1 — East Coast,39.0,-77.0,2460.7,thousand barrels
+2023-12,R20,PADD 2 — Midwest,41.5,-93.0,27670.7,thousand barrels
+2023-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,159886.4,thousand barrels
+2023-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43971.6,thousand barrels
+2023-12,R50,PADD 5 — West Coast,37.0,-120.0,21351.0,thousand barrels
+2024-01,R10,PADD 1 — East Coast,39.0,-77.0,2394.6,thousand barrels
+2024-01,R20,PADD 2 — Midwest,41.5,-93.0,28195.9,thousand barrels
+2024-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,157350.5,thousand barrels
+2024-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,42708.7,thousand barrels
+2024-01,R50,PADD 5 — West Coast,37.0,-120.0,21452.3,thousand barrels
+2024-02,R10,PADD 1 — East Coast,39.0,-77.0,2430.7,thousand barrels
+2024-02,R20,PADD 2 — Midwest,41.5,-93.0,27806.4,thousand barrels
+2024-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,152404.7,thousand barrels
+2024-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43439.9,thousand barrels
+2024-02,R50,PADD 5 — West Coast,37.0,-120.0,21644.9,thousand barrels
+2024-03,R10,PADD 1 — East Coast,39.0,-77.0,2503.2,thousand barrels
+2024-03,R20,PADD 2 — Midwest,41.5,-93.0,28642.7,thousand barrels
+2024-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,147989.7,thousand barrels
+2024-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43863.3,thousand barrels
+2024-03,R50,PADD 5 — West Coast,37.0,-120.0,22250.4,thousand barrels
+2024-04,R10,PADD 1 — East Coast,39.0,-77.0,2564.3,thousand barrels
+2024-04,R20,PADD 2 — Midwest,41.5,-93.0,29060.5,thousand barrels
+2024-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,149843.6,thousand barrels
+2024-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43982.7,thousand barrels
+2024-04,R50,PADD 5 — West Coast,37.0,-120.0,22774.5,thousand barrels
+2024-05,R10,PADD 1 — East Coast,39.0,-77.0,2467.0,thousand barrels
+2024-05,R20,PADD 2 — Midwest,41.5,-93.0,28518.9,thousand barrels
+2024-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,149776.7,thousand barrels
+2024-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,44476.0,thousand barrels
+2024-05,R50,PADD 5 — West Coast,37.0,-120.0,22524.1,thousand barrels
+2024-06,R10,PADD 1 — East Coast,39.0,-77.0,2434.8,thousand barrels
+2024-06,R20,PADD 2 — Midwest,41.5,-93.0,28331.2,thousand barrels
+2024-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,149601.8,thousand barrels
+2024-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,44289.9,thousand barrels
+2024-06,R50,PADD 5 — West Coast,37.0,-120.0,22587.8,thousand barrels
+2024-07,R10,PADD 1 — East Coast,39.0,-77.0,2382.2,thousand barrels
+2024-07,R20,PADD 2 — Midwest,41.5,-93.0,28134.9,thousand barrels
+2024-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,146263.0,thousand barrels
+2024-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43942.8,thousand barrels
+2024-07,R50,PADD 5 — West Coast,37.0,-120.0,22475.5,thousand barrels
+2024-08,R10,PADD 1 — East Coast,39.0,-77.0,2416.6,thousand barrels
+2024-08,R20,PADD 2 — Midwest,41.5,-93.0,28337.4,thousand barrels
+2024-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,144929.5,thousand barrels
+2024-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43906.0,thousand barrels
+2024-08,R50,PADD 5 — West Coast,37.0,-120.0,21809.4,thousand barrels
+2024-09,R10,PADD 1 — East Coast,39.0,-77.0,2446.3,thousand barrels
+2024-09,R20,PADD 2 — Midwest,41.5,-93.0,28335.1,thousand barrels
+2024-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,146600.4,thousand barrels
+2024-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,43674.0,thousand barrels
+2024-09,R50,PADD 5 — West Coast,37.0,-120.0,21848.9,thousand barrels
+2024-10,R10,PADD 1 — East Coast,39.0,-77.0,2324.1,thousand barrels
+2024-10,R20,PADD 2 — Midwest,41.5,-93.0,27799.3,thousand barrels
+2024-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,147034.1,thousand barrels
+2024-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,45753.3,thousand barrels
+2024-10,R50,PADD 5 — West Coast,37.0,-120.0,22742.5,thousand barrels
+2024-11,R10,PADD 1 — East Coast,39.0,-77.0,2319.4,thousand barrels
+2024-11,R20,PADD 2 — Midwest,41.5,-93.0,27135.3,thousand barrels
+2024-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,150041.5,thousand barrels
+2024-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,46770.8,thousand barrels
+2024-11,R50,PADD 5 — West Coast,37.0,-120.0,22054.7,thousand barrels
+2024-12,R10,PADD 1 — East Coast,39.0,-77.0,2365.8,thousand barrels
+2024-12,R20,PADD 2 — Midwest,41.5,-93.0,27541.8,thousand barrels
+2024-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,153537.7,thousand barrels
+2024-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,46051.9,thousand barrels
+2024-12,R50,PADD 5 — West Coast,37.0,-120.0,22132.3,thousand barrels
+2025-01,R10,PADD 1 — East Coast,39.0,-77.0,2382.3,thousand barrels
+2025-01,R20,PADD 2 — Midwest,41.5,-93.0,27809.7,thousand barrels
+2025-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,153377.3,thousand barrels
+2025-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,48111.6,thousand barrels
+2025-01,R50,PADD 5 — West Coast,37.0,-120.0,22196.0,thousand barrels
+2025-02,R10,PADD 1 — East Coast,39.0,-77.0,2398.8,thousand barrels
+2025-02,R20,PADD 2 — Midwest,41.5,-93.0,27979.6,thousand barrels
+2025-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,148309.0,thousand barrels
+2025-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,47887.6,thousand barrels
+2025-02,R50,PADD 5 — West Coast,37.0,-120.0,22412.5,thousand barrels
+2025-03,R10,PADD 1 — East Coast,39.0,-77.0,2390.8,thousand barrels
+2025-03,R20,PADD 2 — Midwest,41.5,-93.0,28243.0,thousand barrels
+2025-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,146657.9,thousand barrels
+2025-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,48107.3,thousand barrels
+2025-03,R50,PADD 5 — West Coast,37.0,-120.0,22070.6,thousand barrels
+2025-04,R10,PADD 1 — East Coast,39.0,-77.0,2349.8,thousand barrels
+2025-04,R20,PADD 2 — Midwest,41.5,-93.0,28006.4,thousand barrels
+2025-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,146958.0,thousand barrels
+2025-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,49163.2,thousand barrels
+2025-04,R50,PADD 5 — West Coast,37.0,-120.0,21529.8,thousand barrels
+2025-05,R10,PADD 1 — East Coast,39.0,-77.0,2358.4,thousand barrels
+2025-05,R20,PADD 2 — Midwest,41.5,-93.0,28221.5,thousand barrels
+2025-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,145263.6,thousand barrels
+2025-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,47422.8,thousand barrels
+2025-05,R50,PADD 5 — West Coast,37.0,-120.0,21022.3,thousand barrels
+2025-06,R10,PADD 1 — East Coast,39.0,-77.0,2370.3,thousand barrels
+2025-06,R20,PADD 2 — Midwest,41.5,-93.0,29767.2,thousand barrels
+2025-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,142780.7,thousand barrels
+2025-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,47387.7,thousand barrels
+2025-06,R50,PADD 5 — West Coast,37.0,-120.0,21666.0,thousand barrels
+2025-07,R10,PADD 1 — East Coast,39.0,-77.0,2408.9,thousand barrels
+2025-07,R20,PADD 2 — Midwest,41.5,-93.0,30585.5,thousand barrels
+2025-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,143551.0,thousand barrels
+2025-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,47033.9,thousand barrels
+2025-07,R50,PADD 5 — West Coast,37.0,-120.0,21326.9,thousand barrels
+2025-08,R10,PADD 1 — East Coast,39.0,-77.0,2452.1,thousand barrels
+2025-08,R20,PADD 2 — Midwest,41.5,-93.0,30531.4,thousand barrels
+2025-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,151102.6,thousand barrels
+2025-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,47415.0,thousand barrels
+2025-08,R50,PADD 5 — West Coast,37.0,-120.0,21199.1,thousand barrels
+2025-09,R10,PADD 1 — East Coast,39.0,-77.0,2466.1,thousand barrels
+2025-09,R20,PADD 2 — Midwest,41.5,-93.0,30334.0,thousand barrels
+2025-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,150231.7,thousand barrels
+2025-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,47955.5,thousand barrels
+2025-09,R50,PADD 5 — West Coast,37.0,-120.0,22176.2,thousand barrels
+2025-10,R10,PADD 1 — East Coast,39.0,-77.0,2530.0,thousand barrels
+2025-10,R20,PADD 2 — Midwest,41.5,-93.0,28719.9,thousand barrels
+2025-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,150824.2,thousand barrels
+2025-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,48073.3,thousand barrels
+2025-10,R50,PADD 5 — West Coast,37.0,-120.0,21939.3,thousand barrels
+2025-11,R10,PADD 1 — East Coast,39.0,-77.0,2521.1,thousand barrels
+2025-11,R20,PADD 2 — Midwest,41.5,-93.0,29448.7,thousand barrels
+2025-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,147469.8,thousand barrels
+2025-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,48146.7,thousand barrels
+2025-11,R50,PADD 5 — West Coast,37.0,-120.0,22177.2,thousand barrels
+2025-12,R10,PADD 1 — East Coast,39.0,-77.0,2458.4,thousand barrels
+2025-12,R20,PADD 2 — Midwest,41.5,-93.0,30029.8,thousand barrels
+2025-12,R30,PADD 3 — Gulf Coast,29.8,-95.4,151726.9,thousand barrels
+2025-12,R40,PADD 4 — Rocky Mountain,43.0,-107.0,49364.9,thousand barrels
+2025-12,R50,PADD 5 — West Coast,37.0,-120.0,22737.8,thousand barrels
+2026-01,R10,PADD 1 — East Coast,39.0,-77.0,2491.7,thousand barrels
+2026-01,R20,PADD 2 — Midwest,41.5,-93.0,29823.3,thousand barrels
+2026-01,R30,PADD 3 — Gulf Coast,29.8,-95.4,154988.3,thousand barrels
+2026-01,R40,PADD 4 — Rocky Mountain,43.0,-107.0,49860.0,thousand barrels
+2026-01,R50,PADD 5 — West Coast,37.0,-120.0,23290.7,thousand barrels
+2026-02,R10,PADD 1 — East Coast,39.0,-77.0,2508.0,thousand barrels
+2026-02,R20,PADD 2 — Midwest,41.5,-93.0,29088.6,thousand barrels
+2026-02,R30,PADD 3 — Gulf Coast,29.8,-95.4,158105.8,thousand barrels
+2026-02,R40,PADD 4 — Rocky Mountain,43.0,-107.0,50100.8,thousand barrels
+2026-02,R50,PADD 5 — West Coast,37.0,-120.0,22763.6,thousand barrels
+2026-03,R10,PADD 1 — East Coast,39.0,-77.0,2542.9,thousand barrels
+2026-03,R20,PADD 2 — Midwest,41.5,-93.0,28532.8,thousand barrels
+2026-03,R30,PADD 3 — Gulf Coast,29.8,-95.4,163038.1,thousand barrels
+2026-03,R40,PADD 4 — Rocky Mountain,43.0,-107.0,50449.3,thousand barrels
+2026-03,R50,PADD 5 — West Coast,37.0,-120.0,22529.8,thousand barrels
+2026-04,R10,PADD 1 — East Coast,39.0,-77.0,2488.8,thousand barrels
+2026-04,R20,PADD 2 — Midwest,41.5,-93.0,28900.6,thousand barrels
+2026-04,R30,PADD 3 — Gulf Coast,29.8,-95.4,162296.8,thousand barrels
+2026-04,R40,PADD 4 — Rocky Mountain,43.0,-107.0,52503.5,thousand barrels
+2026-04,R50,PADD 5 — West Coast,37.0,-120.0,22756.2,thousand barrels
+2026-05,R10,PADD 1 — East Coast,39.0,-77.0,2587.9,thousand barrels
+2026-05,R20,PADD 2 — Midwest,41.5,-93.0,28964.5,thousand barrels
+2026-05,R30,PADD 3 — Gulf Coast,29.8,-95.4,161964.3,thousand barrels
+2026-05,R40,PADD 4 — Rocky Mountain,43.0,-107.0,52894.9,thousand barrels
+2026-05,R50,PADD 5 — West Coast,37.0,-120.0,23725.2,thousand barrels
+2026-06,R10,PADD 1 — East Coast,39.0,-77.0,2635.0,thousand barrels
+2026-06,R20,PADD 2 — Midwest,41.5,-93.0,29481.0,thousand barrels
+2026-06,R30,PADD 3 — Gulf Coast,29.8,-95.4,168151.0,thousand barrels
+2026-06,R40,PADD 4 — Rocky Mountain,43.0,-107.0,52562.2,thousand barrels
+2026-06,R50,PADD 5 — West Coast,37.0,-120.0,23458.7,thousand barrels
+2026-07,R10,PADD 1 — East Coast,39.0,-77.0,2630.4,thousand barrels
+2026-07,R20,PADD 2 — Midwest,41.5,-93.0,29649.9,thousand barrels
+2026-07,R30,PADD 3 — Gulf Coast,29.8,-95.4,170951.5,thousand barrels
+2026-07,R40,PADD 4 — Rocky Mountain,43.0,-107.0,50765.6,thousand barrels
+2026-07,R50,PADD 5 — West Coast,37.0,-120.0,23321.0,thousand barrels
+2026-08,R10,PADD 1 — East Coast,39.0,-77.0,2591.7,thousand barrels
+2026-08,R20,PADD 2 — Midwest,41.5,-93.0,30341.8,thousand barrels
+2026-08,R30,PADD 3 — Gulf Coast,29.8,-95.4,164047.7,thousand barrels
+2026-08,R40,PADD 4 — Rocky Mountain,43.0,-107.0,49512.8,thousand barrels
+2026-08,R50,PADD 5 — West Coast,37.0,-120.0,23610.0,thousand barrels
+2026-09,R10,PADD 1 — East Coast,39.0,-77.0,2657.9,thousand barrels
+2026-09,R20,PADD 2 — Midwest,41.5,-93.0,30687.4,thousand barrels
+2026-09,R30,PADD 3 — Gulf Coast,29.8,-95.4,166196.1,thousand barrels
+2026-09,R40,PADD 4 — Rocky Mountain,43.0,-107.0,49248.4,thousand barrels
+2026-09,R50,PADD 5 — West Coast,37.0,-120.0,23997.0,thousand barrels
+2026-10,R10,PADD 1 — East Coast,39.0,-77.0,2609.9,thousand barrels
+2026-10,R20,PADD 2 — Midwest,41.5,-93.0,31318.9,thousand barrels
+2026-10,R30,PADD 3 — Gulf Coast,29.8,-95.4,164927.4,thousand barrels
+2026-10,R40,PADD 4 — Rocky Mountain,43.0,-107.0,49338.6,thousand barrels
+2026-10,R50,PADD 5 — West Coast,37.0,-120.0,24419.5,thousand barrels
+2026-11,R10,PADD 1 — East Coast,39.0,-77.0,2738.4,thousand barrels
+2026-11,R20,PADD 2 — Midwest,41.5,-93.0,30135.2,thousand barrels
+2026-11,R30,PADD 3 — Gulf Coast,29.8,-95.4,168549.7,thousand barrels
+2026-11,R40,PADD 4 — Rocky Mountain,43.0,-107.0,48987.7,thousand barrels
+2026-11,R50,PADD 5 — West Coast,37.0,-120.0,24103.8,thousand barrels
